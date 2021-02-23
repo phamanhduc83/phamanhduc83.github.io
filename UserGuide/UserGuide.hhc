@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Introduction">
+	<param name="Local" value="introduction.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Product Overview">
+	<param name="Local" value="product_overview.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="FlashBoot vs Other Tools">
+	<param name="Local" value="flashboot_vs_other_tools.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Setting up BIOS">
+	<param name="Local" value="setting_up_bios.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Free vs Pro">
+	<param name="Local" value="free_vs_pro.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Ordering and Updates">
+	<param name="Local" value="ordering_and_updates.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Support &amp; Feedback">
+	<param name="Local" value="support_and_feedback.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="License Agreement">
+	<param name="Local" value="license_agreement.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Install OS from USB device">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Windows Vista/7/8/8.1/10 installer">
+	<param name="Local" value="winvistaplus_withoutdrv_installer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Windows Vista/7/8/8.1/10 installer with added drivers">
+	<param name="Local" value="winvistaplus_withdrv_installer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Windows 8.1/10 installer from ESD file">
+	<param name="Local" value="win8_1plus_withoutdrv_fromesd_installer.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Windows 8.1/10 installer from ESD file with added drivers">
+	<param name="Local" value="win8_1plus_withdrv_installer_fromesd.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Installable clone of Windows 7/8/8.1/10 (BIOS mode)">
+	<param name="Local" value="installableclone_win7plus_bios.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Installable clone of Windows 7/8/8.1/10 (UEFI mode)">
+	<param name="Local" value="installableclone_win7plus_uefi.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Windows XP installer">
+	<param name="Local" value="windows_xp_installer.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Full OS on USB device">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Full Windows 8/8.1/10 (BIOS mode)">
+	<param name="Local" value="fullwin8plus_forbios.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Full Windows 8/8.1/10 (UEFI mode)">
+	<param name="Local" value="fullwin8plus_foruefi.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Bootable clone of Windows 8/8.1/10 (BIOS mode)">
+	<param name="Local" value="bootableclone_win8_xor10_bios.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Bootable clone of Windows 8/8.1/10 (UEFI mode)">
+	<param name="Local" value="bootableclone_win8_xor10_uefi.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="BartPE">
+	<param name="Local" value="bartpe.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="UEFI Shell">
+	<param name="Local" value="uefi_shell.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="DOS">
+	<param name="Local" value="dos.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="USB device imaging and duplication">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Save USB storage device to image file">
+	<param name="Local" value="savetoimagefile.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Restore USB storage device from image file">
+	<param name="Local" value="restorefromimagefile.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Duplicate USB storage device">
+	<param name="Local" value="duplicateusbstordev.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Create self-extracting archive with FAT filesystem">
+	<param name="Local" value="createfatsfx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Create self-extracting archive with NTFS filesystem">
+	<param name="Local" value="createntfssfx.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Create self-extracting archive with raw image">
+	<param name="Local" value="createrawsfx.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Format USB device as non-bootable">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Quick format">
+	<param name="Local" value="quickformat.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Wipe (securely erase all data)">
+	<param name="Local" value="wipe.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Advanced topics">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Portable Edition">
+	<param name="Local" value="portable_edition.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Command Line Version">
+	<param name="Local" value="commandlineversion.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Upgrading from FlashBoot 2.x/1.x">
+	<param name="Local" value="upgradingfrom2x1x.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Compatibility with older computers">
+	<param name="Local" value="compatibilitywitholdercomputers.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="Compatibility with Windows XP and Vista">
+	<param name="Local" value="compatibilitywithxpandvista.htm">
+</OBJECT>
+</UL>
+</UL>
+</BODY></HTML>

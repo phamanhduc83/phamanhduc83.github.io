@@ -1,0 +1,252 @@
+<HTML>
+<HEAD>
+</HEAD>
+  <BODY>
+<OBJECT type="text/site properties">
+        <param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="About Portable Offline Browser">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="What is Portable Offline Browser?">
+      <param name="Local" value="html/Contents.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Main Features">
+      <param name="Local" value="html/Features.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Advanced features">
+      <param name="Local" value="html/OEPro.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How could it be useful for you?">
+      <param name="Local" value="html/HowUseful.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Getting started">
+      <param name="Local" value="html/Start.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Credits">
+      <param name="Local" value="html/Credits.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Download BitTorrent files">
+      <param name="Local" value="html/BitTorrent.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How To...">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Use Portable Offline Browser">
+      <param name="Local" value="html/Main.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Create a Project">
+      <param name="Local" value="html/NewProject.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Organize Projects tree">
+      <param name="Local" value="html/Operations.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Start downloading">
+      <param name="Local" value="html/Download.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Save pages while browsing a Web site">
+      <param name="Local" value="html/AutoSave.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="View downloaded files offline">
+      <param name="Local" value="html/View.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Register Portable Offline Browser">
+      <param name="Local" value="html/Order.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Upgrade to the next version and keep my Projects">
+      <param name="Local" value="html/Upgrade.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Obtain Technical Support">
+      <param name="Local" value="html/Support.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Post process or data mine downloaded Web sites">
+      <param name="Local" value="html/DataMining.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Burn downloaded Web site to CD">
+      <param name="Local" value="html/BurnToCD.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Add a single link to an existing Project?">
+      <param name="Local" value="html/SingleURL.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Place downloaded Web site on a USB key to view it on other computers">
+      <param name="Local" value="html/USBKey.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced features">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Scheduling Projects download">
+      <param name="Local" value="html/Scheduling.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Using internal browser">
+      <param name="Local" value="html/IB.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Command line parameters">
+      <param name="Local" value="html/CommandLine.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Setting up proxy server parameters">
+      <param name="Local" value="html/ProxyServer.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Exporting Projects">
+      <param name="Local" value="html/Export.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Fine-tuning downloads using Project URL Filters">
+      <param name="Local" value="html/PropFilters.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Using URL Macros">
+      <param name="Local" value="html/Macros.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="List of all Additional= command parameters">
+      <param name="Local" value="html/Additionals.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Using different proxy server settings for Projects">
+      <param name="Local" value="html/DifferentProxy.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="URL Substitutes">
+      <param name="Local" value="html/Substitutes.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Project URLs field parameters">
+      <param name="Local" value="html/URLsParams.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to download...">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="www.ITKnowledge.com">
+      <param name="Local" value="html/ITKnowledge.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Adult check and CyberAge - protected Sites">
+      <param name="Local" value="html/AdultCheck.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="www.ScienceDiet.com">
+      <param name="Local" value="html/ScienceDiet.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="...just few links from some page?">
+      <param name="Local" value="html/FewLinks.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="FAQ">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="What are the .primary and descr.wd3 files?">
+      <param name="Local" value="html/Primary.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Where Portable Offline Browser stores downloaded Web sites?">
+      <param name="Local" value="html/DownloadDirectory.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Why some files appear broken or incomplete after download?">
+      <param name="Local" value="html/BrokenFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Why I can't load Lotus Notes site properly?">
+      <param name="Local" value="html/LotusNotes.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Why I receive '403 Forbidden' message?">
+      <param name="Local" value="html/Error403.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Why Portable Offline Browser stops during downloading?">
+      <param name="Local" value="html/DownloadHang.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to export or print Project automatically after downloading?">
+      <param name="Local" value="html/AutoExport.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to delete old Project files automatically after downloading?">
+      <param name="Local" value="html/DelOldFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to specify custom referrer, cookie or POST request?">
+      <param name="Local" value="html/AutoCookie.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to backup all Portable Offline Browser settings?">
+      <param name="Local" value="html/BackupAll.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to submit any HTML form and download its results?">
+      <param name="Local" value="html/SubmitForm.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to handle NTLM authentication?">
+      <param name="Local" value="html/NTLM.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to expand the URLs field of the Properties dialog?">
+      <param name="Local" value="html/F11.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to collect E-mails from downloaded Web pages?">
+      <param name="Local" value="html/CollectEMails.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to get the list of recently downloaded files for a Project?">
+      <param name="Local" value="html/RecentFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to get a page or link address if right-click is disabled and I get a message box?">
+      <param name="Local" value="html/PageRightClick.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="How to install Portable Offline Browser under a non-administrator user on Windows NT/2000/XP?">
+      <param name="Local" value="html/NonAdminNT.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Why some symbols are changed in filenames - ?, _40, etc.">
+      <param name="Local" value="html/SymbolsConvert.html">
+      </OBJECT>
+    </UL>
+    <LI><OBJECT type="text/sitemap">
+    <param name="Name" value="All topics">
+    <param name="Local" value="html/index.html">
+    </OBJECT>
+</UL>
+</BODY>
+</HTML>

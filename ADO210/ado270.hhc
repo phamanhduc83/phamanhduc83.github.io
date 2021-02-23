@@ -1,0 +1,4304 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Microsoft ActiveX Data Objects (ADO)">
+		<param name="Local" value="htm/dasdkadooverview.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ADO Programmer's Guide">
+			<param name="Local" value="htm/mdmscadoprogrammersguide.htm">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Introduction">
+				<param name="Local" value="htm/mdconintroduction.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="What's New in ADO">
+					<param name="Local" value="htm/mdmscwhatsnewinado.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Prerequisites">
+					<param name="Local" value="htm/mdconprerequisites.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="The ADO Family of Libraries">
+					<param name="Local" value="htm/mdconadofamilyoflibraries.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="The Role of ADO in Microsoft Data Access">
+					<param name="Local" value="htm/mdconroleofadoinuda.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Task Table">
+					<param name="Local" value="htm/mdcontasktable.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Technology Table">
+					<param name="Local" value="htm/mdcontechnologytable.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Section I: ActiveX Data Objects (ADO)">
+				<param name="Local" value="htm/mdmscsection1_ado.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 1: ADO Fundamentals">
+					<param name="Local" value="htm/mdconadofundamentals.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="What You Can Do With ADO">
+						<param name="Local" value="htm/mdconwhatyoucandowithado.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="The ADO Object Model">
+						<param name="Local" value="htm/mdconadoobjectmodel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="HelloData: A Simple ADO Application">
+						<param name="Local" value="htm/mdtuthellodata.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="HelloData Details">
+							<param name="Local" value="htm/mdtutwhatthecodedoes.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="HelloData Code">
+							<param name="Local" value="htm/mdtuthellodatacode.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="OLE DB Providers">
+						<param name="Local" value="htm/mdconservicecomponentsandproviders.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Data Providers">
+							<param name="Local" value="htm/mdcondataproviders.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Service Providers and Components">
+							<param name="Local" value="htm/mdconserviceproviders.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Errors">
+						<param name="Local" value="htm/mdconerrors.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 2: Getting Data">
+					<param name="Local" value="htm/mdcongettingdata.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Making a Connection">
+						<param name="Local" value="htm/mdconmakingaconnection.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using the Connection Object">
+						<param name="Local" value="htm/mdconusingconnection.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Creating the Connection String">
+							<param name="Local" value="htm/mdconfillinconnstring.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Controlling Transactions">
+							<param name="Local" value="htm/mdconcontrollingtrx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using the Command Object">
+						<param name="Local" value="htm/mdconworkwithcmdobject.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Command Object Overview">
+							<param name="Local" value="htm/mdconcommandoverview.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Creating and Executing a Simple Command">
+							<param name="Local" value="htm/mdconsimplecommand.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Command Object Parameters">
+							<param name="Local" value="htm/mdconcommandparams.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Calling a Stored Procedure with a Command">
+							<param name="Local" value="htm/mdconcommandstoredproc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Named Commands">
+							<param name="Local" value="htm/mdconnamedcommands.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Adding Data to a Recordset">
+						<param name="Local" value="htm/mdcongettingdataintors.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="The Recordset Object Open Method">
+							<param name="Local" value="htm/mdconrecordsetopen.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 3: Examining Data">
+					<param name="Local" value="htm/mdconexploringtherecordset.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Locating the Current Record">
+						<param name="Local" value="htm/mdconexaminecurrentrecord.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Counting Rows">
+							<param name="Local" value="htm/mdconrsrecordcount.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="The Limits of a Recordset">
+							<param name="Local" value="htm/mdconrslimits.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Navigating Through the Data">
+						<param name="Local" value="htm/mdcondatanavigation.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Jumping to a Record">
+							<param name="Local" value="htm/mdconrsjumptorecord.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="More Ways to Move in a Recordset">
+							<param name="Local" value="htm/mdconrsmorewaystomove.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using Bookmarks">
+							<param name="Local" value="htm/mdconrsbookmarks.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using Pages">
+							<param name="Local" value="htm/mdconrspages.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Recordset Positioning">
+							<param name="Local" value="htm/mdconrspositioning.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Understanding Recordset Structure">
+						<param name="Local" value="htm/mdconrsstructure.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="The Fields Collection">
+							<param name="Local" value="htm/mdconrsfieldscollection.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="The Field Object">
+							<param name="Local" value="htm/mdconfieldobject.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Working with Recordsets">
+							<param name="Local" value="htm/mdconworkingwithrecordsets.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 4: Editing Data">
+					<param name="Local" value="htm/mdconeditingdata.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Editing Existing Records">
+						<param name="Local" value="htm/mdconeditexistingrecords.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Adding Records">
+						<param name="Local" value="htm/mdconaddingrecords.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Adding Records Using AddNew">
+							<param name="Local" value="htm/mdconaddingonatatime.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Adding Multiple Fields">
+							<param name="Local" value="htm/mdconaddingmultiple.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Determining Edit Mode">
+							<param name="Local" value="htm/mdcondeterminingeditmode.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using AddNew in Immediate and Batch Modes">
+							<param name="Local" value="htm/mdconaddnewinimmeditatebatch.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Determining What is Supported">
+						<param name="Local" value="htm/mdcondeterminingsupport.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Deleting Records Using the Delete Method">
+						<param name="Local" value="htm/mdcondeletingrecords.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Alternatives: Using SQL Statements">
+						<param name="Local" value="htm/mdconalternativedelete.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 5: Updating and Persisting Data">
+					<param name="Local" value="htm/mdconupdatepersistdata.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Updating Data">
+						<param name="Local" value="htm/mdconupdatingdata.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Immediate Mode">
+							<param name="Local" value="htm/mdconimmediatemode.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Batch Mode">
+							<param name="Local" value="htm/mdconbatchmode.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Sending the Updates: UpdateBatch">
+								<param name="Local" value="htm/mdconupdatebatchmthd.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Filtering for Updated Records">
+								<param name="Local" value="htm/mdconfilterupdates.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Dealing with Failed Updates">
+								<param name="Local" value="htm/mdconfailedupdates.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Detecting and Resolving Conflicts">
+								<param name="Local" value="htm/mdcondetectresolveconflicts.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Disconnecting and Reconnecting the Recordset">
+								<param name="Local" value="htm/mdcondisconnectedrs.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Updating JOINed Results: Unique Table">
+								<param name="Local" value="htm/mdconupdatingjoins.htm">
+								</OBJECT>
+						</UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Transaction Processing">
+							<param name="Local" value="htm/mdcontrxproc.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Persisting Data">
+						<param name="Local" value="htm/mdconpersistdata.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="More About Recordset Persistence">
+							<param name="Local" value="htm/mdmscrecordsetpersistence.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Persisting Filtered and Hierarchical Recordsets">
+							<param name="Local" value="htm/mdconpersistfilteredrs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Persisting Records in XML Format">
+							<param name="Local" value="htm/mdconpersistingrecordsxmlformat.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="XML Persistence Format">
+								<param name="Local" value="htm/mdconxmlpersistformat.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Namespaces">
+								<param name="Local" value="htm/mdconnamespaces.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Schema Section">
+								<param name="Local" value="htm/mdconschemasection.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Data Section">
+								<param name="Local" value="htm/mdcondatasection.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Hierarchical Recordsets in XML">
+								<param name="Local" value="htm/mdconhierarchicalrecordsetsxml.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Recordset Dynamic Properties in XML">
+								<param name="Local" value="htm/mdconrecordsetdynamicpropertiesxml.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="XSLT Transformations">
+								<param name="Local" value="htm/mdconxmlxsltrans.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Saving to the XML DOM Object">
+								<param name="Local" value="htm/mdconpersisttoxmldom.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="XML Security Considerations">
+								<param name="Local" value="htm/mdconxmlsecurityconsiderations.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="XML Recordset Persistence Scenario">
+								<param name="Local" value="htm/mdhowxmlrspersistscenario.htm">
+								</OBJECT>
+							<UL>
+								<LI> <OBJECT type="text/sitemap">
+									<param name="Name" value="Step 1: Set Up the Application">
+									<param name="Local" value="htm/mdhowstep1setupapplication.htm">
+									</OBJECT>
+								<LI> <OBJECT type="text/sitemap">
+									<param name="Name" value="Step 2: Get the Data">
+									<param name="Local" value="htm/mdhowstep2getdata.htm">
+									</OBJECT>
+								<LI> <OBJECT type="text/sitemap">
+									<param name="Name" value="Step 3: Send the Data">
+									<param name="Local" value="htm/mdhowstep3senddata.htm">
+									</OBJECT>
+								<LI> <OBJECT type="text/sitemap">
+									<param name="Name" value="Step 4: Receive and Display the Data">
+									<param name="Local" value="htm/mdhowstep4receivedisplaydata.htm">
+									</OBJECT>
+							</UL>
+						</UL>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 6: Error Handling">
+					<param name="Local" value="htm/mdconerrorhandling.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Errors">
+						<param name="Local" value="htm/mdconadoerrors.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO Error Reference">
+							<param name="Local" value="htm/mdconadoerrorreference.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Provider Errors">
+						<param name="Local" value="htm/mdconprovidererrors.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Field-Related Error Information">
+						<param name="Local" value="htm/mdconfieldrelatederrors.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Recordset-Related Error Information">
+						<param name="Local" value="htm/mdconrecordsetrelatederrors.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Handling Errors In Other Languages">
+						<param name="Local" value="htm/mdconhandlingerrors.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handling Errors in VBScript">
+							<param name="Local" value="htm/mdconhandlingerrorsvbscript.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handling Errors in Visual C++">
+							<param name="Local" value="htm/mdconhandlingerrorsvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handline Errors in Visual J++">
+							<param name="Local" value="htm/mdconhandlingerrorsvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handling Errors in JScript">
+							<param name="Local" value="htm/mdconhandlingerrorsjscript.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Anticipating Errors">
+						<param name="Local" value="htm/mdconanticipatingerrors.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 7: Handling ADO Events">
+					<param name="Local" value="htm/mdmscadoeventmodelasynchronousoperations.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Event Handler Summary">
+						<param name="Local" value="htm/mdmscadoevents.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Types of Events">
+						<param name="Local" value="htm/mdmsctypesofevents.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Event Parameters">
+						<param name="Local" value="htm/mdmsceventparameters.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="How Event Handlers Work Together">
+						<param name="Local" value="htm/mdmschoweventhandlersworktogether.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Event Instantiation by Language">
+						<param name="Local" value="htm/mdmscadoeventinstantiation.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual Basic">
+							<param name="Local" value="htm/mdconeventsvb.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual C++">
+							<param name="Local" value="htm/mdconeventsvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual J++">
+							<param name="Local" value="htm/mdconeventsvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="VBScript">
+							<param name="Local" value="htm/mdconeventsvbscript.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="JScript">
+							<param name="Local" value="htm/mdconeventsjscript.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO/WFC">
+							<param name="Local" value="htm/mdconeventsadowfc.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 8: Understanding Cursors and Locks">
+					<param name="Local" value="htm/mdconcursorsandlocks.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="What is a Cursor?">
+						<param name="Local" value="htm/mdconwhatsacursor.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Types of Cursors">
+						<param name="Local" value="htm/mdconcursortypes.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Forward-Only Cursors">
+							<param name="Local" value="htm/mdconforwardonlycursor.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Static Cursors">
+							<param name="Local" value="htm/mdconstaticcursors.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Keyset Cursors">
+							<param name="Local" value="htm/mdconkeysetcursors.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Dynamic Cursors">
+							<param name="Local" value="htm/mdcondynamiccursors.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="The Significance of Cursor Location">
+						<param name="Local" value="htm/mdconcursorlocationsignificance.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="The Microsoft Cursor Service for OLE DB">
+						<param name="Local" value="htm/mdconclientcursorengine.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="What is a Lock?">
+						<param name="Local" value="htm/mdconwhatisalock.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Types of Locks">
+							<param name="Local" value="htm/mdcontypesoflocks.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using CacheSize">
+						<param name="Local" value="htm/mdconcachesize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Cursor and Lock Characteristics">
+						<param name="Local" value="htm/mdconcursorlockmatrix.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 9: Data Shaping">
+					<param name="Local" value="htm/mdmschierarchicalcursorsdatashaping.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Data Shaping Summary">
+						<param name="Local" value="htm/mdmschierarchicalcursorsdatashapingdetail.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Data Shaping">
+							<param name="Local" value="htm/mdhowdatashaping.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Reshaping">
+							<param name="Local" value="htm/mdhowreshaping.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Grandchild Aggregates">
+							<param name="Local" value="htm/mdhowgrandchildaggregates.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Parameterized Commands with Intervening COMPUTE Commands">
+							<param name="Local" value="htm/mdhowparameterizedcommandswithinterveningcomputecommands.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Persisting Hierarchical Recordsets">
+							<param name="Local" value="htm/mdhowpersistinghierarchicalrecordsets.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Required Providers for Data Shaping">
+						<param name="Local" value="htm/mdmscrequiredprovidersfordatashaping.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Shape Commands in General">
+						<param name="Local" value="htm/mdmscshapecommandsingeneral.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Aggregate Functions, the CALC Function, and the NEW Keyword">
+							<param name="Local" value="htm/mdconaggregatefunctionscalcfunctionnewkeyword.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Issuing Commands to the Underlying Data Provider">
+							<param name="Local" value="htm/mdconissuingcommandstounderlyingdataprovider.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Shape Append Clause">
+						<param name="Local" value="htm/mdmscshapeappendcommand.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Operation of Non-Parameterized Commands">
+							<param name="Local" value="htm/mdconoperationofnonparameterizedcommands.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Operation of Parameterized Commands">
+							<param name="Local" value="htm/mdconoperationofparameterizedcommands.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Hybrid Commands">
+							<param name="Local" value="htm/mdconhybridcommands.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Intervening Shape COMPUTE Clauses">
+							<param name="Local" value="htm/mdconinterveningshapecomputeclauses.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Shape Compute Clause">
+						<param name="Local" value="htm/mdmscshapecomputecommand.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Fabricating Hierarchical Recordsets">
+						<param name="Local" value="htm/mdobjfabricatinghierarchicalrecordsets.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Accessing Rows in a Hierarchical Recordset">
+						<param name="Local" value="htm/mdmscaccessingrowsinhierarchicalrecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Formal Shape Grammar">
+						<param name="Local" value="htm/mdmscformalshapegrammar.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Visual Basic for Applications functions">
+						<param name="Local" value="htm/mdmscvbafunctions.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 10: Records and Streams">
+					<param name="Local" value="htm/mdmscadofordocuments.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Streams and Persistence">
+						<param name="Local" value="htm/mdmscstreamspersistence.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO for Internet Publishing">
+						<param name="Local" value="htm/mdmscusingadoforinetpub.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="The OLE DB Provider for Internet Publishing">
+							<param name="Local" value="htm/mdhowusingadowithrosebud.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Internet Publishing Scenario">
+							<param name="Local" value="htm/mdhowinternetpublishingscenario.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Step 1: Set Up the Visual Basic Project">
+								<param name="Local" value="htm/mdhowstep1setupvisualbasicproject.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Step 2: Initialize the Main List Box">
+								<param name="Local" value="htm/mdhowstep2initializemainlistbox.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Step 3: Populate the Fields List Box">
+								<param name="Local" value="htm/mdhowstep3populatefieldslistbox.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Step 4: Populate the Details Text Box">
+								<param name="Local" value="htm/mdhowstep4populatedetailstextbox.htm">
+								</OBJECT>
+						</UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Absolute and Relative URLs">
+							<param name="Local" value="htm/mdmsccompleteabsoluterelativeurls.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Records and Provider-Supplied Fields">
+							<param name="Local" value="htm/mdmscrecordsprovidersuppliedextrafields.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Section II: Remote Data Service (RDS)">
+				<param name="Local" value="htm/mdmscsection2_rds.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 11: RDS Fundamentals">
+					<param name="Local" value="htm/mdmscoverviewofremotedataservice.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Solutions for Remote Data Access">
+						<param name="Local" value="htm/mdmsctherdsproblem.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Basic RDS Programming Model">
+						<param name="Local" value="htm/mdmscbasicrdsprogrammingmodel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Programming Model in Detail">
+						<param name="Local" value="htm/mdmsctherdsprogrammingmodelindetail.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Programming Model with Objects">
+						<param name="Local" value="htm/mdmscrdsprogrammingmodelwithobjects.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Object Model Summary">
+						<param name="Local" value="htm/mdmsctherdsobjectmodel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Scenario">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="System Requirements for the Address Book Application">
+							<param name="Local" value="htm/mdhowabsysrequire.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Running the Address Book Sample Application">
+							<param name="Local" value="htm/mdhowrunab.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Address Book Data-Binding Object">
+							<param name="Local" value="htm/mdhowabdbobj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Address Book Command Buttons">
+							<param name="Local" value="htm/mdhowabcombuttons.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Address Book Navigation Buttons">
+							<param name="Local" value="htm/mdhownavbuttons.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 12: RDS Tutorial">
+					<param name="Local" value="htm/mdhowrdstutorial.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 1: Specify a Server Program (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep1specifyserverprogram.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 2: Invoke the Server Program (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep2invokeserverprogram.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 3: Server Obtains a Recordset (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep3serverobtainsrecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 4: Server Returns the Recordset (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep4serverreturnsrecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 5: DataControl is Made Usable (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep5datacontrol.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Step 6: Changes are Sent to the Server (RDS Tutorial)">
+						<param name="Local" value="htm/mdhowstep6changessenttoserver.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Tutorial (VBScript)">
+						<param name="Local" value="htm/mdhowrdstutorialvbscript.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Tutorial (Visual J++)">
+						<param name="Local" value="htm/mdhowrdstutorialvj.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 13: RDS Usage and Security">
+					<param name="Local" value="htm/mdhowoverview.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Configuring RDS">
+						<param name="Local" value="htm/mdhowconfigurationinformation.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Granting Guest Privileges to a Web Server Computer; RDS guest privileges [ADO]">
+						<param name="Local" value="htm/mdhowgrantguest.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Registering a Custom Business Object">
+						<param name="Local" value="htm/mdhowregistry.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Marking Business Objects as Safe for Scripting">
+						<param name="Local" value="htm/mdhowsfs.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Registering Business Objects on the Client for Use with DCOM">
+						<param name="Local" value="htm/mdhowcsregistry.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Setting DCOM Stream Marshaling Format">
+						<param name="Local" value="htm/mdhowdcomstreammarshalingformat.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Enabling a DLL to Run on DCOM">
+						<param name="Local" value="htm/mdhowdllmts.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Configuring Virtual Servers on IIS">
+						<param name="Local" value="htm/mdhowvirtualservers.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Specifying Threads Per Processor on IIS">
+						<param name="Local" value="htm/mdhowthreadsperprocessor.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Securing RDS Applications">
+						<param name="Local" value="htm/mdhowsecurityforrdswithinternetexplorer.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Configuring DataFactory for Safe or Unrestricted Modes">
+						<param name="Local" value="htm/mdhowconfiguringdatafactory.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using Related Technologies with RDS">
+						<param name="Local" value="htm/mdhowrelatedtech.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using RDS with ODBC Connection Pooling">
+							<param name="Local" value="htm/mdhowsqlstab.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Running Business Objects in Component Services">
+							<param name="Local" value="htm/mdhowdispenser.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataFactory Customization">
+						<param name="Local" value="htm/mdmscdatafactorycustomization.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Understanding the Customization File">
+							<param name="Local" value="htm/mdmscunderstandingcustomizationfile.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Customization File Connect Section">
+							<param name="Local" value="htm/mdmsccustomizationfileconnectsection.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Customization File SQL Section">
+							<param name="Local" value="htm/mdmsccustomizationfilesqlsection.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Customization File UserList Section">
+							<param name="Local" value="htm/mdmsccustomizationfileuserlistsection.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Customization File Logs Section">
+							<param name="Local" value="htm/mdmsccustomizationfilelogssection.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Required Client Settings">
+							<param name="Local" value="htm/mdmscrequiredclientsettings.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Writing Your Own Customized Handler">
+							<param name="Local" value="htm/mdmscwritingyourowncustomizedhandler.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Troubleshooting RDS">
+						<param name="Local" value="htm/mdhowtroubleshooting.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Configuring RDS on Windows 2000">
+							<param name="Local" value="htm/mdhowconfigurerdsonwin2k.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="&quot;Internet Server Error: Access Denied&quot;">
+							<param name="Local" value="htm/mdhowaccessdenied.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="RDS Returns &quot;Stream Not Read&quot; Error">
+							<param name="Local" value="htm/mdhowrdsstreamnotread.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Deadlocks With Read Repeatable Isolation Level">
+							<param name="Local" value="htm/mdhowdeadlock.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Ensuring Sufficient TempDB Space">
+							<param name="Local" value="htm/mdhowtempdb.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Minimizing Log File Space Usage">
+							<param name="Local" value="htm/mdhowminlogfile.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Section III: ADO (Multidimensional) (ADO MD)">
+				<param name="Local" value="htm/ammscadomdoverview.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 14: ADO MD Fundamentals">
+					<param name="Local" value="htm/ammscadomdfundamentals.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Overview of Multidimensional Schemas and Data">
+						<param name="Local" value="htm/ammscoverviewmdschemasanddata.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Working with Multidimensional Data">
+						<param name="Local" value="htm/ammscworkingwithmddata.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO with ADO MD">
+						<param name="Local" value="htm/ammscusingadowithadomd.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Programming with ADO MD">
+						<param name="Local" value="htm/ammscprogrammingwithadomd.htm">
+						</OBJECT>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Section IV: ADO Extensions for Data Definition Language and Security (ADOX)">
+				<param name="Local" value="htm/admscadoddloverview.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Chapter 15: ADOX Fundamentals">
+					<param name="Local" value="htm/admscadoxfundamentals.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Provider Support for ADOX">
+						<param name="Local" value="htm/adconprovidersupportforadox.htm">
+						</OBJECT>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Section V: Appendixes">
+				<param name="Local" value="htm/mdmscsectionv_appendixes.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Appendix A: Providers">
+					<param name="Local" value="htm/mdrefadoprovinfo.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for ODBC">
+						<param name="Local" value="htm/mdrefodbcprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for Microsoft Indexing Service">
+						<param name="Local" value="htm/mdrefindservprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for Microsoft Active Directory Service">
+						<param name="Local" value="htm/mdrefadsprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for Microsoft Jet">
+						<param name="Local" value="htm/mdrefjetprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for SQL Server">
+						<param name="Local" value="htm/mdrefsqlprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for Oracle">
+						<param name="Local" value="htm/mdreforacleprovspec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Provider for Internet Publishing">
+						<param name="Local" value="htm/mdrefproviderrosebud.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft Data Shaping Service for OLE DB (ADO Service Provider)">
+						<param name="Local" value="htm/mdrefmsdatashape.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Persistence Provider (ADO Service Provider)">
+						<param name="Local" value="htm/mdrefmspersist.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft OLE DB Remoting Provider (ADO Service Provider)">
+						<param name="Local" value="htm/mdrefmsremote.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Microsoft Cursor Service for OLE DB (ADO Service Component)">
+						<param name="Local" value="htm/mdrefcursorengine.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Appendix B: ADO Errors">
+					<param name="Local" value="htm/mdreferrorcodes.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Error Codes">
+						<param name="Local" value="htm/mdrefadoerror.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataControl Error Codes">
+						<param name="Local" value="htm/mdrefrdserror.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Internet Explorer Error Codes">
+						<param name="Local" value="htm/mdrefieerror.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Internet Information Services Error Codes">
+						<param name="Local" value="htm/mdrefiiserror.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Appendix C: Programming with ADO">
+					<param name="Local" value="htm/mdmscprogrammingwithado.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO with Microsoft Visual Basic">
+						<param name="Local" value="htm/mdmscusingadowithmicrosoftvisualbasic.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO with Scripting Languages">
+						<param name="Local" value="htm/mdmscusingadowithmicrosoftvisualbasicscriptingedition.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="VBScript ADO Programming">
+							<param name="Local" value="htm/mdmscadoinvbscript.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="JScript ADO Programming">
+							<param name="Local" value="htm/mdmscadoinjscript.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO with Microsoft Visual C++">
+						<param name="Local" value="htm/mdmscusingadowithmicrosoftvisualc.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual C++ ADO Programming">
+							<param name="Local" value="htm/mdhowhowvcusersshouldreadadodocumentation.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual C++ Extensions for ADO">
+							<param name="Local" value="htm/mdmscadovcextensions.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using Visual C++ Extensions">
+							<param name="Local" value="htm/mdmscusingadovcextensions.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual C++ Extensions Header">
+							<param name="Local" value="htm/mdmscvcextensionsheaderindetail.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Visual C++ Extensions Example">
+							<param name="Local" value="htm/mdmscexampleadowithextensions.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Using ADO with Microsoft Visual J++">
+						<param name="Local" value="htm/mdmscusingadowithmicrosoftvisualj.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO/WFC Programming">
+							<param name="Local" value="htm/mdmscadoforjava.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using the Java Type Library Wizard">
+							<param name="Local" value="htm/mdmscusingadowithjavatypelibararywizard.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Using the Microsoft SDK for Java">
+							<param name="Local" value="htm/mdmscusingadowithmicrosoftsdkforjava.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO Java Class Wrappers">
+							<param name="Local" value="htm/mdmscadojavaclasswrappers.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Appendix D: ADO Samples">
+					<param name="Local" value="htm/mdhowadosamples.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ADO Glossary">
+				<param name="Local" value="htm/mddefglossary.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ADO Programmer's Reference">
+			<param name="Local" value="htm/mdmscmicrosoftadoprogrammersreference.htm">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ADO API Reference">
+				<param name="Local" value="htm/mdmscadoapireference.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Object Model">
+					<param name="Local" value="htm/mdmscadoobjmod.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Objects and Interfaces">
+					<param name="Local" value="htm/mdmscadoobjects.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADORecordConstruction Interface (ADO)">
+						<param name="Local" value="htm/mdobjadorecordconstruction.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADORecordsetConstruction Interface (ADO)">
+						<param name="Local" value="htm/mdobjadorecordsetconstruction.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Command Object (ADO)">
+						<param name="Local" value="htm/mdobjcommand.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjcommandpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Connection Object (ADO)">
+						<param name="Local" value="htm/mdobjconnection.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjconnectionpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Error Object (ADO)">
+						<param name="Local" value="htm/mdobjerror.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjerrorpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Field Object (ADO)">
+						<param name="Local" value="htm/mdobjfield.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjfieldpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Parameter Object (ADO)">
+						<param name="Local" value="htm/mdobjparameter.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjparameterpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Property Object (ADO)">
+						<param name="Local" value="htm/mdobjproperty.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjpropertypme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Record Object (ADO)">
+						<param name="Local" value="htm/mdobjrecord.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjrecordpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Recordset Object (ADO)">
+						<param name="Local" value="htm/mdobjodbrec.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjodbrecpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Stream Object (ADO)">
+						<param name="Local" value="htm/mdobjstream.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjstreampme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Collections">
+					<param name="Local" value="htm/mdmscadocollections.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Errors Collection (ADO)">
+						<param name="Local" value="htm/mdcolerrors.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Errors Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/mdcolerrorspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Fields Collection (ADO)">
+						<param name="Local" value="htm/mdcolfields.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Fields Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/mdcolfieldspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Parameters Collection (ADO)">
+						<param name="Local" value="htm/mdcolparameters.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Parameters Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/mdcolparameterspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Properties Collection (ADO)">
+						<param name="Local" value="htm/mdcolproperties.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/mdcolpropertiespme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Properties">
+					<param name="Local" value="htm/mdmscadoproperties.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AbsolutePage Property (ADO)">
+						<param name="Local" value="htm/mdproabpage.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AbsolutePosition Property (ADO)">
+						<param name="Local" value="htm/mdproabpos.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActiveCommand Property (ADO)">
+						<param name="Local" value="htm/mdproactivecommand.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActiveConnection Property (ADO)">
+						<param name="Local" value="htm/mdproactivecon.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActualSize Property (ADO)">
+						<param name="Local" value="htm/mdproactualsize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Attributes Property (ADO)">
+						<param name="Local" value="htm/mdproattributes.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="BOF, EOF Properties (ADO)">
+						<param name="Local" value="htm/mdprobof.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Bookmark Property (ADO)">
+						<param name="Local" value="htm/mdprobookmark.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CacheSize Property (ADO)">
+						<param name="Local" value="htm/mdprocachesize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Chapter Property (ADO)">
+						<param name="Local" value="htm/mdprochapter.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Charset Property (ADO)">
+						<param name="Local" value="htm/mdprocharset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CommandText Property (ADO)">
+						<param name="Local" value="htm/mdprocommandtext.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CommandTimeout Property (ADO)">
+						<param name="Local" value="htm/mdprocommandtimeout.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CommandType Property (ADO)">
+						<param name="Local" value="htm/mdprocommandtype.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectionString Property (ADO)">
+						<param name="Local" value="htm/mdproconnectionstring.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectionTimeout Property (ADO)">
+						<param name="Local" value="htm/mdproconnectiontimeout.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Count Property (ADO)">
+						<param name="Local" value="htm/mdprocount.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CursorLocation Property (ADO)">
+						<param name="Local" value="htm/mdprocursorlocation.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CursorType Property (ADO)">
+						<param name="Local" value="htm/mdprocursortype.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataMember Property (ADO)">
+						<param name="Local" value="htm/mdprodatamember.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataSource Property (ADO)">
+						<param name="Local" value="htm/mdprodatasource.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DefaultDatabase Property (ADO)">
+						<param name="Local" value="htm/mdprodefaultdatabase.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DefinedSize Property (ADO)">
+						<param name="Local" value="htm/mdprodefinedsize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Description Property (ADO)">
+						<param name="Local" value="htm/mdprodescription.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Direction Property (ADO)">
+						<param name="Local" value="htm/mdprodirection.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EditMode Property (ADO)">
+						<param name="Local" value="htm/mdproeditmode.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EOS Property (ADO)">
+						<param name="Local" value="htm/mdproeos.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Filter Property (ADO)">
+						<param name="Local" value="htm/mdprofilter.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="HelpContext, HelpFile Properties (ADO)">
+						<param name="Local" value="htm/mdprohelpcontext.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Index Property (ADO)">
+						<param name="Local" value="htm/mdproindex.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="IsolationLevel Property (ADO)">
+						<param name="Local" value="htm/mdproisolationlevel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Item Property (ADO)">
+						<param name="Local" value="htm/mdproitem.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LineSeparator Property (ADO)">
+						<param name="Local" value="htm/mdprolineseparator.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LockType Property (ADO)">
+						<param name="Local" value="htm/mdprolocktype.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MarshalOptions Property (ADO)">
+						<param name="Local" value="htm/mdpromarshaloptions.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MaxRecords Property (ADO)">
+						<param name="Local" value="htm/mdpromaxrecords.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Mode Property (ADO)">
+						<param name="Local" value="htm/mdpromode.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Name Property (ADO)">
+						<param name="Local" value="htm/mdproname.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="NativeError Property (ADO)">
+						<param name="Local" value="htm/mdpronativeerror.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Number Property (ADO)">
+						<param name="Local" value="htm/mdpronumber.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="NumericScale Property (ADO)">
+						<param name="Local" value="htm/mdpronumericscale.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="OriginalValue Property (ADO)">
+						<param name="Local" value="htm/mdprooriginalvalue.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PageCount Property (ADO)">
+						<param name="Local" value="htm/mdpropagecount.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PageSize Property (ADO)">
+						<param name="Local" value="htm/mdpropagesize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParentRow Property (ADO)">
+						<param name="Local" value="htm/mdproparentrow.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParentURL Property (ADO)">
+						<param name="Local" value="htm/mdproparenturl.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Position Property (ADO)">
+						<param name="Local" value="htm/mdproposition.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Precision Property (ADO)">
+						<param name="Local" value="htm/mdproprecision.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Prepared Property (ADO)">
+						<param name="Local" value="htm/mdproprepared.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Provider Property (ADO)">
+						<param name="Local" value="htm/mdproprovider.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordCount Property (ADO)">
+						<param name="Local" value="htm/mdprorecordcount.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordType Property (ADO)">
+						<param name="Local" value="htm/mdprorecordtypeproperty.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Row Property (ADO)">
+						<param name="Local" value="htm/mdprorow.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RowPosition Property (ADO)">
+						<param name="Local" value="htm/mdprorowposition.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Rowset Property (ADO)">
+						<param name="Local" value="htm/mdprorowset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Size Property (ADO)">
+						<param name="Local" value="htm/mdprosize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Size Property (ADO Stream)">
+						<param name="Local" value="htm/mdprosizestream.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Sort Property (ADO)">
+						<param name="Local" value="htm/mdprosortpropertyado.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Source Property (ADO Error)">
+						<param name="Local" value="htm/mdproerrsource.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Source Property (ADO Record)">
+						<param name="Local" value="htm/mdprosourcerecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Source Property (ADO Recordset)">
+						<param name="Local" value="htm/mdprorstsource.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SQLState Property (ADO)">
+						<param name="Local" value="htm/mdprosqlstate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="State Property (ADO)">
+						<param name="Local" value="htm/mdprostate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Status Property (ADO Field)">
+						<param name="Local" value="htm/mdprostatusfield.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Status Property (ADO Recordset)">
+						<param name="Local" value="htm/mdprostatus.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StayInSync Property (ADO)">
+						<param name="Local" value="htm/mdprostayinsync.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (ADO)">
+						<param name="Local" value="htm/mdprotype.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (ADO Stream)">
+						<param name="Local" value="htm/mdprotypestream.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="UnderlyingValue Property (ADO)">
+						<param name="Local" value="htm/mdprounderlyingvalue.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Value Property (ADO)">
+						<param name="Local" value="htm/mdprovalue.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Version Property (ADO)">
+						<param name="Local" value="htm/mdproversion.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Dynamic Properties">
+					<param name="Local" value="htm/mdmscadodynamicproperties.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Dynamic Property Index">
+						<param name="Local" value="htm/mdrefadodynamicpropertyindex.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Optimize Property--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprooptimizepropertyrds.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Prompt Property--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprodynprompt.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Reshape Name Property--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprodynname.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Resync Command Property--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprodynresynccommand.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Unique Table, Unique Schema, Unique Catalog Properties--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprodynuniquetable.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Update Resync Property--Dynamic (ADO)">
+						<param name="Local" value="htm/mdprodynupdateresync.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Methods">
+					<param name="Local" value="htm/mdmscadomethods.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AddNew Method (ADO)">
+						<param name="Local" value="htm/mdmthaddnew.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADO)">
+						<param name="Local" value="htm/mdmthappend.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AppendChunk Method (ADO)">
+						<param name="Local" value="htm/mdmthappchunk.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="BeginTrans, CommitTrans, and RollbackTrans Methods (ADO)">
+						<param name="Local" value="htm/mdmthbegintrans.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Cancel Method (ADO)">
+						<param name="Local" value="htm/mdmthadocancel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CancelBatch Method (ADO)">
+						<param name="Local" value="htm/mdmthcancelbatch.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CancelUpdate Method (ADO)">
+						<param name="Local" value="htm/mdmthcancelupdate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Clear Method (ADO)">
+						<param name="Local" value="htm/mdmthclear.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Clone Method (ADO)">
+						<param name="Local" value="htm/mdmthclone.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Close Method (ADO)">
+						<param name="Local" value="htm/mdmthclose.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CompareBookmarks Method (ADO)">
+						<param name="Local" value="htm/mdmthcomparebookmarks.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CopyRecord Method (ADO)">
+						<param name="Local" value="htm/mdmthcopyrecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CopyTo Method (ADO)">
+						<param name="Local" value="htm/mdmthcopyto.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CreateParameter Method (ADO)">
+						<param name="Local" value="htm/mdmthcreateparam.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Delete Method (ADO Parameters Collection)">
+						<param name="Local" value="htm/mdmthcoldelete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Delete Method (ADO Fields Collection)">
+						<param name="Local" value="htm/mdmthcoldeletefield.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Delete Method (ADO Recordset)">
+						<param name="Local" value="htm/mdmthrstdelete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DeleteRecord Method (ADO)">
+						<param name="Local" value="htm/mdmthdeleterecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Execute Method (ADO Command)">
+						<param name="Local" value="htm/mdmthcmdexecute.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Execute Method (ADO Connection)">
+						<param name="Local" value="htm/mdmthcnnexecute.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Find Method (ADO)">
+						<param name="Local" value="htm/mdmthfindmethodado.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Flush Method (ADO)">
+						<param name="Local" value="htm/mdmthflush.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetChildren Method (ADO)">
+						<param name="Local" value="htm/mdmthgetchildrenmethodado.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetChunk Method (ADO)">
+						<param name="Local" value="htm/mdmthgetchunk.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetRows Method (ADO)">
+						<param name="Local" value="htm/mdmthgetrows.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetString Method (ADO)">
+						<param name="Local" value="htm/mdmthgetstringmethod(recordset)ado.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LoadFromFile Method (ADO)">
+						<param name="Local" value="htm/mdmthloadfromfile.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Move Method (ADO)">
+						<param name="Local" value="htm/mdmthmove.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods (ADO)">
+						<param name="Local" value="htm/mdmthmovefirst.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MoveRecord Method (ADO)">
+						<param name="Local" value="htm/mdmthmoverecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="NextRecordset Method (ADO)">
+						<param name="Local" value="htm/mdmthnextrec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Open Method (ADO Connection)">
+						<param name="Local" value="htm/mdmthcnnopen.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Open Method (ADO Record)">
+						<param name="Local" value="htm/mdmthopenrecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Open Method (ADO Recordset)">
+						<param name="Local" value="htm/mdmthrstopen.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Open Method (ADO Stream)">
+						<param name="Local" value="htm/mdmthopenstream.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="OpenSchema Method (ADO)">
+						<param name="Local" value="htm/mdmthopenschema.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Read Method (ADO)">
+						<param name="Local" value="htm/mdmthread.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ReadText Method (ADO)">
+						<param name="Local" value="htm/mdmthreadtext.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Refresh Method (ADO)">
+						<param name="Local" value="htm/mdmthadorefresh.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Requery Method (ADO)">
+						<param name="Local" value="htm/mdmthadorequery.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Resync Method (ADO)">
+						<param name="Local" value="htm/mdmthadoresync.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Save Method (ADO)">
+						<param name="Local" value="htm/mdmthrstsave.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SaveToFile Method (ADO)">
+						<param name="Local" value="htm/mdmthsavetofile.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Seek Method (ADO)">
+						<param name="Local" value="htm/mdmthseek.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SetEOS Method (ADO)">
+						<param name="Local" value="htm/mdmthseteos.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SkipLine Method (ADO)">
+						<param name="Local" value="htm/mdmthskipline.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Stat Method (ADO)">
+						<param name="Local" value="htm/mdmthstat.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Supports Method (ADO)">
+						<param name="Local" value="htm/mdmthsupports.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Update Method (ADO)">
+						<param name="Local" value="htm/mdmthupdate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="UpdateBatch Method (ADO)">
+						<param name="Local" value="htm/mdmthupdatebatch.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Write Method (ADO)">
+						<param name="Local" value="htm/mdmthwrite.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WriteText Method (ADO)">
+						<param name="Local" value="htm/mdmthwritetext.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Events">
+					<param name="Local" value="htm/mdmscadoeventsref.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="BeginTransComplete, CommitTransComplete, and RollbackTransComplete Events (ADO)">
+						<param name="Local" value="htm/mdevtbegintranscomplete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectComplete and Disconnect Events (ADO)">
+						<param name="Local" value="htm/mdevtconnectconnectionevents.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EndOfRecordset Event (ADO)">
+						<param name="Local" value="htm/mdevtendofrecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ExecuteComplete Event (ADO)">
+						<param name="Local" value="htm/mdevtexecutecomplete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FetchComplete Event (ADO)">
+						<param name="Local" value="htm/mdevtfetchcomplete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FetchProgress Event (ADO)">
+						<param name="Local" value="htm/mdevtfetchprogress.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="InfoMessage Event (ADO)">
+						<param name="Local" value="htm/mdevtinfomessage.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillChangeField and FieldChangeComplete Events (ADO)">
+						<param name="Local" value="htm/mdevtwillchangefield.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillChangeRecord and RecordChangeComplete Events (ADO)">
+						<param name="Local" value="htm/mdevtwillchangerecord.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillChangeRecordset and RecordsetChangeComplete Events (ADO)">
+						<param name="Local" value="htm/mdevtwillchangerecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillConnect Event (ADO)">
+						<param name="Local" value="htm/mdevtwillconnectevent.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillExecute Event (ADO)">
+						<param name="Local" value="htm/mdevtwillexecuteevent.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="WillMove and MoveComplete Events (ADO)">
+						<param name="Local" value="htm/mdevtwillmove.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Enumerated Constants">
+					<param name="Local" value="htm/mdmscadoenumerations.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADCPROP_ASYNCTHREADPRIORITY_ENUM">
+						<param name="Local" value="htm/mdcstadcprop_asyncthreadpriority_enum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADCPROP_AUTORECALC_ENUM">
+						<param name="Local" value="htm/mdcstadcprop_autorecalc_enum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADCPROP_UPDATECRITERIA_ENUM">
+						<param name="Local" value="htm/mdcstadcprop_updatecriteria_enum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADCPROP_UPDATERESYNC_ENUM">
+						<param name="Local" value="htm/mdcstceresyncenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AffectEnum">
+						<param name="Local" value="htm/mdcstaffectenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="BookmarkEnum">
+						<param name="Local" value="htm/mdcstbookmarkenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CommandTypeEnum">
+						<param name="Local" value="htm/mdcstcommandtypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CompareEnum">
+						<param name="Local" value="htm/mdcstcompareenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectModeEnum">
+						<param name="Local" value="htm/mdcstconnectmodeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectOptionEnum">
+						<param name="Local" value="htm/mdcstconnectoptionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConnectPromptEnum">
+						<param name="Local" value="htm/mdcstconnectpromptenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CopyRecordOptionsEnum">
+						<param name="Local" value="htm/mdcstcopyrecordoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CursorLocationEnum">
+						<param name="Local" value="htm/mdcstcursorlocationenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CursorOptionEnum">
+						<param name="Local" value="htm/mdcstcursoroptionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CursorTypeEnum">
+						<param name="Local" value="htm/mdcstcursortypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataTypeEnum">
+						<param name="Local" value="htm/mdcstdatatypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EditModeEnum">
+						<param name="Local" value="htm/mdcsteditmodeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ErrorValueEnum">
+						<param name="Local" value="htm/mdcsterrorvalueenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EventReasonEnum">
+						<param name="Local" value="htm/mdcsteventreasonenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="EventStatusEnum">
+						<param name="Local" value="htm/mdcsteventstatusenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ExecuteOptionEnum">
+						<param name="Local" value="htm/mdcstexecuteoptionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FieldEnum">
+						<param name="Local" value="htm/mdcstfieldenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FieldAttributeEnum">
+						<param name="Local" value="htm/mdcstfieldattributeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FieldStatusEnum">
+						<param name="Local" value="htm/mdcstfieldstatusenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FilterGroupEnum">
+						<param name="Local" value="htm/mdcstfiltergroupenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetRowsOptionEnum">
+						<param name="Local" value="htm/mdcstgetrowsoptionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="IsolationLevelEnum">
+						<param name="Local" value="htm/mdcstisolationlevelenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LineSeparatorsEnum">
+						<param name="Local" value="htm/mdcstlineseparatorsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LockTypeEnum">
+						<param name="Local" value="htm/mdcstlocktypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MarshalOptionsEnum">
+						<param name="Local" value="htm/mdcstmarshaloptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MoveRecordOptionsEnum">
+						<param name="Local" value="htm/mdcstmoverecordoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ObjectStateEnum">
+						<param name="Local" value="htm/mdcstobjectstateenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParameterAttributesEnum">
+						<param name="Local" value="htm/mdcstparameterattributesenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParameterDirectionEnum">
+						<param name="Local" value="htm/mdcstparameterdirectionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PersistFormatEnum">
+						<param name="Local" value="htm/mdcstpersistformatenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PositionEnum">
+						<param name="Local" value="htm/mdcstpositionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PropertyAttributesEnum">
+						<param name="Local" value="htm/mdcstpropertyattributesenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordCreateOptionsEnum">
+						<param name="Local" value="htm/mdcstrecordcreateoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordOpenOptionsEnum">
+						<param name="Local" value="htm/mdcstrecordopenoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordStatusEnum">
+						<param name="Local" value="htm/mdcstrecordstatusenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RecordTypeEnum">
+						<param name="Local" value="htm/mdcstrecordtypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ResyncEnum">
+						<param name="Local" value="htm/mdcstresyncenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SaveOptionsEnum">
+						<param name="Local" value="htm/mdcstsaveoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SchemaEnum">
+						<param name="Local" value="htm/mdcstschemaenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SearchDirectionEnum">
+						<param name="Local" value="htm/mdcstsearchdirectionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SeekEnum">
+						<param name="Local" value="htm/mdcstseekenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StreamOpenOptionsEnum">
+						<param name="Local" value="htm/mdcststreamopenoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StreamReadEnum">
+						<param name="Local" value="htm/mdcststreamreadenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StreamTypeEnum">
+						<param name="Local" value="htm/mdcststreamtypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StreamWriteEnum">
+						<param name="Local" value="htm/mdcststreamwriteoptionsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="StringFormatEnum">
+						<param name="Local" value="htm/mdcststringformatenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="XactAttributeEnum">
+						<param name="Local" value="htm/mdcstxactattributeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Syntax Indexes">
+						<param name="Local" value="htm/mdmscadosyntaxindexes.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO for Visual C++ Syntax Index for COM">
+							<param name="Local" value="htm/mdidxadoforvcppsyntax.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Collections (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxcollectionsvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Command (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxcommandvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Connection (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxconnectionvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Error (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxerrorvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Field (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxfieldvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Parameter (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxparametervcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Record (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxrecordvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Recordset (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxrecordsetvcppsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Stream (ADO for Visual C++ Syntax)">
+								<param name="Local" value="htm/mdidxstreamvcppsyntax.htm">
+								</OBJECT>
+						</UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO for Visual C++ Syntax Index with #import">
+							<param name="Local" value="htm/mdidxadoforvcsyntaxindexwithimport.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Collections (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxcollectionsvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Command (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxcommandvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Connection (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxconnectionvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Error (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxerrorvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Field (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxfieldvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Parameter (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxparametervcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Property (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxpropertyvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Record (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxrecordvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Recordset (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxrecordsetvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Stream (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxstreamvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="ConnectionEvents (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxconnectioneventsvcimport.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="RecordsetEvents (Visual C++ Syntax Index with #import)">
+								<param name="Local" value="htm/mdidxrecordseteventsvcimport.htm">
+								</OBJECT>
+						</UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO/WFC Syntax Index">
+							<param name="Local" value="htm/mdidxadoforjavasyntax.htm">
+							</OBJECT>
+						<UL>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Collections (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxcollectionsjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Command (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxcommandjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Connection (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxconnectionjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="DataSpace (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxrdsdataspaceadowfcsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Error (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxerrorjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Field (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxfieldjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="ObjectProxy (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxobjectproxyadowfcsyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Parameter (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxparameterjavasyntax.htm">
+								</OBJECT>
+							<LI> <OBJECT type="text/sitemap">
+								<param name="Name" value="Recordset (ADO/WFC Syntax)">
+								<param name="Local" value="htm/mdidxrecordsetjavasyntax.htm">
+								</OBJECT>
+						</UL>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO Code Examples">
+					<param name="Local" value="htm/mdmscadocodeexamples.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Code Examples in Microsoft Visual Basic">
+						<param name="Local" value="htm/mdmscadocodeexamplesinvisualbasic.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePage, PageCount, and PageSize Properties Example (VB)">
+							<param name="Local" value="htm/mdproabpagex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePosition and CursorLocation Properties Example (VB)">
+							<param name="Local" value="htm/mdproabposx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveCommand Property Example (VB)">
+							<param name="Local" value="htm/mdproactivecommandx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveConnection, CommandText, CommandTimeout, CommandType, Size, and Direction Properties Example (VB)">
+							<param name="Local" value="htm/mdproactiveconx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActualSize and DefinedSize Properties Example (VB)">
+							<param name="Local" value="htm/mdproactualsizex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AddNew Method Example (VB)">
+							<param name="Local" value="htm/mdmthaddnewx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Append and CreateParameter Methods Example (VB)">
+							<param name="Local" value="htm/mdmthappendx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AppendChunk and GetChunk Methods Example (VB)">
+							<param name="Local" value="htm/mdmthappendchunkx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Attributes and Name Properties Example (VB)">
+							<param name="Local" value="htm/mdproattributesx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BeginTrans, CommitTrans, and RollbackTrans Methods Example (VB)">
+							<param name="Local" value="htm/mdmthbegintransx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BOF, EOF, and Bookmark Properties Example (VB)">
+							<param name="Local" value="htm/mdprobofx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CacheSize Property Example (VB)">
+							<param name="Local" value="htm/mdprocachesizex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Cancel Method Example (VB)">
+							<param name="Local" value="htm/mdmthcancelx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clone Method Example (VB)">
+							<param name="Local" value="htm/mdmthclonex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CompareBookmarks Method Example (VB)">
+							<param name="Local" value="htm/mdmthcomparebookmarksx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ConnectionString, ConnectionTimeout, and State Properties Example (VB)">
+							<param name="Local" value="htm/mdproconstringx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ConvertToString Method Example (VB)">
+							<param name="Local" value="htm/mdmthconverttostringvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CopyRecord, CopyTo, and SaveToFile Methods Example (VB)">
+							<param name="Local" value="htm/mdmthcopyrecordvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Count Property Example (VB)">
+							<param name="Local" value="htm/mdprocountx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CreateRecordset Method Example (VB)">
+							<param name="Local" value="htm/mdmthcreaterecordsetvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CursorType, LockType, and EditMode Properties Example (VB)">
+							<param name="Local" value="htm/mdprocursortypex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Delete Method Example (VB)">
+							<param name="Local" value="htm/mdmthdeletex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DeleteRecord and MoveRecord Methods Example (VB)">
+							<param name="Local" value="htm/mdmthdeleterecordvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Description, HelpContext, HelpFile, NativeError, Number, Source, and SQLState Properties Example (VB)">
+							<param name="Local" value="htm/mdprodescriptionx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="EOS and LineSeparator Properties and SkipLine Method Example (VB)">
+							<param name="Local" value="htm/mdproeosvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Execute, Requery, and Clear Methods Example (VB)">
+							<param name="Local" value="htm/mdmthexecutex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Filter and RecordCount Properties Example (VB)">
+							<param name="Local" value="htm/mdprofilterx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Find Method Example (VB)">
+							<param name="Local" value="htm/mdmthfindx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetRows Method Example (VB)">
+							<param name="Local" value="htm/mdmthgetrowsx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetString Method Example (VB)">
+							<param name="Local" value="htm/mdmthgetstringx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="IsolationLevel and Mode Properties Example (VB)">
+							<param name="Local" value="htm/mdproisolationlevelx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Item Property Example (VB)">
+							<param name="Local" value="htm/mdmthitemx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MarshalOptions Property Example (VB)">
+							<param name="Local" value="htm/mdpromarshaloptionsx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MaxRecords Property Example (VB)">
+							<param name="Local" value="htm/mdpromaxrecordsx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Move Method Example (VB)">
+							<param name="Local" value="htm/mdmthmovex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods Example (VB)">
+							<param name="Local" value="htm/mdmthmovefirstx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NextRecordset Method Example (VB)">
+							<param name="Local" value="htm/mdmthnextrecx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NumericScale and Precision Properties Example (VB)">
+							<param name="Local" value="htm/mdpronumericscalex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Open and Close Methods Example (VB)">
+							<param name="Local" value="htm/mdmthopenx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OpenSchema Method Example (VB)">
+							<param name="Local" value="htm/mdmthopenschemax.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Optimize Property Example (VB)">
+							<param name="Local" value="htm/mdprooptimizex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OriginalValue and UnderlyingValue Properties Example (VB)">
+							<param name="Local" value="htm/mdprooriginalvaluex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Prepared Property Example (VB)">
+							<param name="Local" value="htm/mdpropreparedx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Provider and DefaultDatabase Properties Example (VB)">
+							<param name="Local" value="htm/mdproproviderx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Read, ReadText, Write, and WriteText Methods Example (VB)">
+							<param name="Local" value="htm/mdmthreadvbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Refresh Method Example (VB)">
+							<param name="Local" value="htm/mdmthrefreshx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Resync Method Example (VB)">
+							<param name="Local" value="htm/mdmthresyncx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Save and Open Methods Example (VB)">
+							<param name="Local" value="htm/mdmthsavex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Seek Method and Index Property Example (VB)">
+							<param name="Local" value="htm/mdmthseekx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Sort Property Example (VB)">
+							<param name="Local" value="htm/mdprosortx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Source Property Example (VB)">
+							<param name="Local" value="htm/mdprosourcex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="State Property Example (VB)">
+							<param name="Local" value="htm/mdprostatex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Status Property Example (Field) (VB)">
+							<param name="Local" value="htm/mdprostatuspropertyexamplefieldvb.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Status Property Example (Recordset) (VB)">
+							<param name="Local" value="htm/mdprostatusx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="StayInSync Property Example (VB)">
+							<param name="Local" value="htm/mdprostayinsyncx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Supports Method Example (VB)">
+							<param name="Local" value="htm/mdmthsupportsx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Field) (VB)">
+							<param name="Local" value="htm/mdprotypex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Property) (VB)">
+							<param name="Local" value="htm/mdpropropertytypex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Update and CancelUpdate Methods Example (VB)">
+							<param name="Local" value="htm/mdmthupdatex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="UpdateBatch and CancelBatch Methods Example (VB)">
+							<param name="Local" value="htm/mdmthupdatebatchx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Value Property Example (VB)">
+							<param name="Local" value="htm/mdprovaluex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Version Property Example (VB)">
+							<param name="Local" value="htm/mdproversionx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Code Examples in Microsoft Visual Basic Scripting Edition">
+						<param name="Local" value="htm/mdmscadocodeexamplesinvbscript.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AddNew Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthaddnewvbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clone Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthclonevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Delete Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthdeletevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Execute, Requery, and Clear Methods Example (VBScript)">
+							<param name="Local" value="htm/mdmthexecutevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Move Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthmovevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods Example (VBScript)">
+							<param name="Local" value="htm/mdmthmovefirstvbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Open and Close Methods Example (VBScript)">
+							<param name="Local" value="htm/mdmthopenclosevbscriptx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Code Examples in Microsoft Visual C++">
+						<param name="Local" value="htm/mdmscadocodeexamplesinvisualc.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ADO Events Model Example (VC++)">
+							<param name="Local" value="htm/mdevteventmodelxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePage, PageCount, and PageSize Properties Example (VC++)">
+							<param name="Local" value="htm/mdproabsolutepagexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePosition and CursorLocation Properties Example (VC++)">
+							<param name="Local" value="htm/mdproabsolutepositionxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveCommand Property Example (VC++)">
+							<param name="Local" value="htm/mdproactivecommandxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveConnection, CommandText, CommandTimeout, CommandType, Size, and Direction Properties Example (VC++)">
+							<param name="Local" value="htm/mdproactiveconnectionxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActualSize and DefinedSize Properties Example (VC++)">
+							<param name="Local" value="htm/mdproactualsizexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AddNew Method Example (VC++)">
+							<param name="Local" value="htm/mdmthaddnewxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Append and CreateParameter Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthappendxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AppendChunk and GetChunk Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthappendchunkxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Attributes and Name Properties Example (VC++)">
+							<param name="Local" value="htm/mdproattributesxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BeginTrans, CommitTrans, and RollbackTrans Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthbegintransxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BOF, EOF, and Bookmark Properties Example (VC++)">
+							<param name="Local" value="htm/mdprobofxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CacheSize Property Example (VC++)">
+							<param name="Local" value="htm/mdprocachesizexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Cancel Method Example (VC++)">
+							<param name="Local" value="htm/mdmthcancelxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clone Method Example (VC++)">
+							<param name="Local" value="htm/mdmthclonexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CompareBookmarks Method Example (VC++)">
+							<param name="Local" value="htm/mdmthcomparebookmarksxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ConnectionString, ConnectionTimeout, and State Properties Example (VC++)">
+							<param name="Local" value="htm/mdproconnectionstringxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Count Property Example (VC++)">
+							<param name="Local" value="htm/mdprocountxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CursorType, LockType, and EditMode Properties Example (VC++)">
+							<param name="Local" value="htm/mdprocursortypexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Delete Method Example (VC++)">
+							<param name="Local" value="htm/mdmthdeletexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Description, HelpContext, HelpFile, NativeError, Number, Source, and SQLState Properties Example (VC++)">
+							<param name="Local" value="htm/mdprodescriptionxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Execute, Requery, and Clear Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthexecutexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Filter and RecordCount Properties Example (VC++)">
+							<param name="Local" value="htm/mdprofilterxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Find Method Example (VC++)">
+							<param name="Local" value="htm/mdmthfindxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetRows Method Example (VC++)">
+							<param name="Local" value="htm/mdmthgetrowsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetString Method Example (VC++)">
+							<param name="Local" value="htm/mdmthgetstringxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="IsolationLevel and Mode Properties Example (VC++)">
+							<param name="Local" value="htm/mdproisolationlevelxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Item Property Example (VC++)">
+							<param name="Local" value="htm/mdmthitemxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MarshalOptions Property Example (VC++)">
+							<param name="Local" value="htm/mdpromarshaloptionsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MaxRecords Property Example (VC++)">
+							<param name="Local" value="htm/mdpromaxrecordsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Move Method Example (VC++)">
+							<param name="Local" value="htm/mdmthmovexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthmovefirstxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NextRecordset Method Example (VC++)">
+							<param name="Local" value="htm/mdmthnextrecordsetxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NumericScale and Precision Properties Example (VC++)">
+							<param name="Local" value="htm/mdpronumericscalexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Open and Close Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthopenxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OpenSchema Method Example (VC++)">
+							<param name="Local" value="htm/mdmthopenschemaxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Optimize Property Example (VC++)">
+							<param name="Local" value="htm/mdprooptimizexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OriginalValue and UnderlyingValue Properties Example (VC++)">
+							<param name="Local" value="htm/mdprooriginalvaluexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Prepared Property Example (VC++)">
+							<param name="Local" value="htm/mdpropreparedxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Provider and DefaultDatabase Properties Example (VC++)">
+							<param name="Local" value="htm/mdproproviderxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Refresh Method Example (VC++)">
+							<param name="Local" value="htm/mdmthrefreshxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Resync Method Example (VC++)">
+							<param name="Local" value="htm/mdmthresyncxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Save and Open Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthsavexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Seek Method and Index Property Example (VC++)">
+							<param name="Local" value="htm/mdmthseekxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Sort Property Example (VC++)">
+							<param name="Local" value="htm/mdprosortxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Source Property Example (VC++)">
+							<param name="Local" value="htm/mdprosourcexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="State Property Example (VC++)">
+							<param name="Local" value="htm/mdprostatexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Status Property Example (VC++)">
+							<param name="Local" value="htm/mdprostatusxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="StayInSync Property Example (VC++)">
+							<param name="Local" value="htm/mdprostayinsyncxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Supports Method Example (VC++)">
+							<param name="Local" value="htm/mdmthsupportsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Field) (VC++)">
+							<param name="Local" value="htm/mdprotypexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Property) (VC++)">
+							<param name="Local" value="htm/mdpropropertytypexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Update and CancelUpdate Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthupdatexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="UpdateBatch and CancelBatch Methods Example (VC++)">
+							<param name="Local" value="htm/mdmthupdatebatchxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Value Property Example (VC++)">
+							<param name="Local" value="htm/mdprovaluexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Version Property Example (VC++)">
+							<param name="Local" value="htm/mdproversionxvc.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Code Examples in Microsoft Visual J++">
+						<param name="Local" value="htm/mdmscadocodeexamplesinvisualj.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePage, PageCount, and PageSize Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproabsolutepagexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePosition and CursorLocation Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproabsolutepositionxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveCommand Property Example (VJ++)">
+							<param name="Local" value="htm/mdproactivecommandxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveConnection, CommandText, CommandTimeout, CommandType, Size, and Direction Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproactiveconnectionxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActualSize and DefinedSize Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproactualsizexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AddNew Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthaddnewxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Append and CreateParameter Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthappendxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AppendChunk and GetChunk Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthappendchunkxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Attributes and Name Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproattributesxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BeginTrans, CommitTrans, and RollbackTrans Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthbegintransxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="BOF, EOF, and Bookmark Properties Example (VJ++)">
+							<param name="Local" value="htm/mdprobofxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CacheSize Property Example (VJ++)">
+							<param name="Local" value="htm/mdprocachesizexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Cancel Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthcancelxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clone Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthclonexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CompareBookmarks Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthcomparebookmarksxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ConnectionString, ConnectionTimeout, and State Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproconnectionstringxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Count Property Example (VJ++)">
+							<param name="Local" value="htm/mdprocountxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CursorType, LockType, and EditMode Properties Example (VJ++)">
+							<param name="Local" value="htm/mdprocursortypexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Delete Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthdeletexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Description, HelpContext, HelpFile, NativeError, Number, Source, and SQLState Properties Example (VJ++)">
+							<param name="Local" value="htm/mdprodescriptionxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Execute, Requery, and Clear Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthexecutexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Filter and RecordCount Properties Example (VJ++)">
+							<param name="Local" value="htm/mdprofilterxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Find Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthfindxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetRows Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthgetrowsxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetString Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthgetstringxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="IsolationLevel and Mode Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproisolationlevelxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Item Property Example (VJ++)">
+							<param name="Local" value="htm/mdmthitemxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MarshalOptions Property Example (VJ++)">
+							<param name="Local" value="htm/mdpromarshaloptionsxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MaxRecords Property Example (VJ++)">
+							<param name="Local" value="htm/mdpromaxrecordsxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Move Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthmovexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthmovefirstxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NextRecordset Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthnextrecordsetxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NumericScale and Precision Properties Example (VJ++)">
+							<param name="Local" value="htm/mdpronumericscalexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Open and Close Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthopenxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OpenSchema Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthopenschemaxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Optimize Property Example (VJ++)">
+							<param name="Local" value="htm/mdprooptimizexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="OriginalValue and UnderlyingValue Properties Example (VJ++)">
+							<param name="Local" value="htm/mdprooriginalvaluexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Prepared Property Example (VJ++)">
+							<param name="Local" value="htm/mdpropreparedxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Provider and DefaultDatabase Properties Example (VJ++)">
+							<param name="Local" value="htm/mdproproviderxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Refresh Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthrefreshxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Resync Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthresyncxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Save and Open Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthsavexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Sort Property Example (VJ++)">
+							<param name="Local" value="htm/mdprosortxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Source Property Example (VJ++)">
+							<param name="Local" value="htm/mdprosourcexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="State Property Example (VJ++)">
+							<param name="Local" value="htm/mdprostatexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Status Property Example (VJ++)">
+							<param name="Local" value="htm/mdprostatusxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="StayInSync Property Example (VJ++)">
+							<param name="Local" value="htm/mdprostayinsyncxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Supports Method Example (VJ++)">
+							<param name="Local" value="htm/mdmthsupportsxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Field) (VJ++)">
+							<param name="Local" value="htm/mdprotypexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Type Property Example (Property) (VJ++)">
+							<param name="Local" value="htm/mdpropropertytypexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Update and CancelUpdate Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthupdatexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="UpdateBatch and CancelBatch Methods Example (VJ++)">
+							<param name="Local" value="htm/mdmthupdatebatchxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Value Property Example (VJ++)">
+							<param name="Local" value="htm/mdprovaluexvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Version Property Example (VJ++)">
+							<param name="Local" value="htm/mdproversionxvj.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO Code Examples in Microsoft JScript">
+						<param name="Local" value="htm/mdmscadocodeexamplesinjscript.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePage, PageCount, and PageSize Properties Example (JScript)">
+							<param name="Local" value="htm/mdproabsolutepagejs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AbsolutePosition and CursorLocation Properties Example (JScript)">
+							<param name="Local" value="htm/mdproabsolutepositionjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveCommand Property Example (JScript)">
+							<param name="Local" value="htm/mdproactivecommandjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActiveConnection, CommandText, CommandTimeout, CommandType, Size, and Direction Properties Example (JScript)">
+							<param name="Local" value="htm/mdproactiveconnectionjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ActualSize and DefinedSize Properties Example (JScript)">
+							<param name="Local" value="htm/mdproactualsizejs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="AddNew Method Example (JScript)">
+							<param name="Local" value="htm/mdmthaddnewjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Append and CreateParameter Methods Example (JScript)">
+							<param name="Local" value="htm/mdmthappendjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CacheSize Property Example (JScript)">
+							<param name="Local" value="htm/mdprocachesizejs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Execute, Requery, and Clear Methods Example (JScript)">
+							<param name="Local" value="htm/mdmthexecutejs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Filter and RecordCount Properties Example (JScript)">
+							<param name="Local" value="htm/mdprofilterjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Find Method Example (JScript)">
+							<param name="Local" value="htm/mdmthfindjs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetRows Method Example (JScript)">
+							<param name="Local" value="htm/mdmthgetrowsjs.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RDS API Reference">
+				<param name="Local" value="htm/mdmscrdsapireference.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RDS Objects">
+					<param name="Local" value="htm/mdmscrdsobjects.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataControl Object (RDS)">
+						<param name="Local" value="htm/mdobjdatacontrol.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjdatacontrolpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataFactory Object (RDSServer)">
+						<param name="Local" value="htm/mdobjdatafactory.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjdatafactorypme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DataSpace Object (RDS)">
+						<param name="Local" value="htm/mdobjdataspace.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/mdobjdataspacepme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RDS Properties">
+					<param name="Local" value="htm/mdmscrdsproperties.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Connect Property (RDS)">
+						<param name="Local" value="htm/mdproconnectprop.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ExecuteOptions Property (RDS)">
+						<param name="Local" value="htm/mdproexecuteoptions.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FetchOptions Property (RDS)">
+						<param name="Local" value="htm/mdprofetchoptions.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FilterColumn Property (RDS)">
+						<param name="Local" value="htm/mdprofiltercol.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FilterCriterion Property (RDS)">
+						<param name="Local" value="htm/mdprofiltercrit.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FilterValue Property (RDS)">
+						<param name="Local" value="htm/mdpropropfilter.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Handler Property (RDS)">
+						<param name="Local" value="htm/mdprohandlerpropertyrds.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="InternetTimeout Property (RDS)">
+						<param name="Local" value="htm/mdprointernettimeout.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ReadyState Property (RDS)">
+						<param name="Local" value="htm/mdproreadystate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Recordset, SourceRecordset Properties (RDS)">
+						<param name="Local" value="htm/mdprorecordset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Server Property (RDS)">
+						<param name="Local" value="htm/mdproserverprop.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SortColumn Property (RDS)">
+						<param name="Local" value="htm/mdprosortcol.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SortDirection Property (RDS)">
+						<param name="Local" value="htm/mdprosortdir.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SQL property [ADO]">
+						<param name="Local" value="htm/mdprosqlprop.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="URL Property (RDS)">
+						<param name="Local" value="htm/mdprourlproperty.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RDS Methods">
+					<param name="Local" value="htm/mdmscrdsmethods.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Cancel Method (RDS)">
+						<param name="Local" value="htm/mdmthrdscancel.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CancelUpdate Method (RDS)">
+						<param name="Local" value="htm/mdmthrdscanupd.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ConvertToString Method (RDS)">
+						<param name="Local" value="htm/mdmthconvstring.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CreateObject Method (RDS)">
+						<param name="Local" value="htm/mdmthcreateobj.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CreateRecordset Method (RDS)">
+						<param name="Local" value="htm/mdmthcreaterec.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MoveFirst, MoveLast, MoveNext, and MovePrevious Methods (RDS)">
+						<param name="Local" value="htm/mdmthmovefirstadc.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Query Method (RDS)">
+						<param name="Local" value="htm/mdmthquery.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Refresh Method (RDS)">
+						<param name="Local" value="htm/mdmthrdsrefresh.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Reset Method (RDS)">
+						<param name="Local" value="htm/mdmthreset.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SubmitChanges Method (RDS)">
+						<param name="Local" value="htm/mdmthsubchanges.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RDS Events">
+					<param name="Local" value="htm/mdmscrdsevents.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="onError Event (RDS)">
+						<param name="Local" value="htm/mdevtonerror.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="onReadyStateChange Event (RDS)">
+						<param name="Local" value="htm/mdevtonreadystatechange.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RDS Code Examples">
+					<param name="Local" value="htm/mdmscrdscodeexamples.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Code Examples in Microsoft Visual Basic">
+						<param name="Local" value="htm/mdmscrdsexamplesvb.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handler Property Example (VB)">
+							<param name="Local" value="htm/mdprohandlerx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="InternetTimeout Property Example (VB)">
+							<param name="Local" value="htm/mdprointernettimeoutx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Code Examples in Microsoft Visual Basic Scripting Edition">
+						<param name="Local" value="htm/mdmscrdsexamplesvbscript.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Cancel Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthcanadcx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CancelUpdate Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthcanupdadcx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Connect Property Example (VBScript)">
+							<param name="Local" value="htm/mdproconnectx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ConvertToString Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthconverttostringx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CreateRecordset Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthcreaterecordsetx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DataControl Object Example (VBScript)">
+							<param name="Local" value="htm/mdobjaddataconx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DataSpace Object and CreateObject Method Example (VBScript)">
+							<param name="Local" value="htm/mdobjaddataspx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DataFactory Object, Query Method, and CreateObject Method Example (VBScript)">
+							<param name="Local" value="htm/mdobjaddatafacx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ExecuteOptions and FetchOptions Properties Example (VBScript)">
+							<param name="Local" value="htm/mdproexecuteoptionsx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties and Reset Method Example (VBScript)">
+							<param name="Local" value="htm/mdprosortfilterx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ReadyState Property Example (VBScript)">
+							<param name="Local" value="htm/mdproreadystateadcx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Recordset and SourceRecordset Properties Example (VBScript)">
+							<param name="Local" value="htm/mdprorecsourcerecx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Refresh Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthrefreshvbs.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Server Property Example (VBScript)">
+							<param name="Local" value="htm/mdproserveradcx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="SQL Property Example (VBScript)">
+							<param name="Local" value="htm/mdprosqladcx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="SubmitChanges Method Example (VBScript)">
+							<param name="Local" value="htm/mdmthsubchgx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="URL Property Example (VBScript)">
+							<param name="Local" value="htm/mdprourlvbscriptx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Code Examples in Microsoft Visual C++">
+						<param name="Local" value="htm/mdmscrdsexamplesvc.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handler Property Example (VC++)">
+							<param name="Local" value="htm/mdprohandlerxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="InternetTimeout Property Example (VC++)">
+							<param name="Local" value="htm/mdprointernettimeoutxvc.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RDS Code Examples in Microsoft Visual J++">
+						<param name="Local" value="htm/mdmscrdsexamplesvj.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Handler Property Example (VJ++)">
+							<param name="Local" value="htm/mdprohandlerxvj.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="InternetTimeout Property Example (VJ++)">
+							<param name="Local" value="htm/mdprointernettimoutxvj.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ADO MD API Reference">
+				<param name="Local" value="htm/ammscadoapireference.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Object Model">
+					<param name="Local" value="htm/ammscobjectmodel.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Objects">
+					<param name="Local" value="htm/ammscadomdobjects.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Axis Object (ADO MD)">
+						<param name="Local" value="htm/amobjaxis.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjaxispme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Catalog Object (ADO MD)">
+						<param name="Local" value="htm/amobjcatalog.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjcatalogpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Cell Object (ADO MD)">
+						<param name="Local" value="htm/amobjcell.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjcellpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Cellset Object (ADO MD)">
+						<param name="Local" value="htm/amobjcellset.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjcellsetpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CubeDef Object (ADO MD)">
+						<param name="Local" value="htm/amobjcubedef.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjcubedefpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Dimension Object (ADO MD)">
+						<param name="Local" value="htm/amobjdimension.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjdimensionpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Hierarchy Object (ADO MD)">
+						<param name="Local" value="htm/amobjhierarchy.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjhierarchypme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Level Object (ADO MD)">
+						<param name="Local" value="htm/amobjlevel.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjlevelpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Member Object (ADO MD)">
+						<param name="Local" value="htm/amobjmember.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjmemberpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Position Object (ADO MD)">
+						<param name="Local" value="htm/amobjposition.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/amobjpositionpme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Collections">
+					<param name="Local" value="htm/ammscadomdcollections.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Axes Collection (ADO MD)">
+						<param name="Local" value="htm/amcolaxes.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Axes Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcolaxespme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="CubeDefs Collection (ADO MD)">
+						<param name="Local" value="htm/amcolcubedefs.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CubeDefs Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcolcubedefspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Dimensions Collection (ADO MD)">
+						<param name="Local" value="htm/amcoldimensions.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Dimensions Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcoldimensionspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Hierarchies Collection (ADO MD)">
+						<param name="Local" value="htm/amcolhierarchies.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Hierarchies Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcolhierarchiespme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Levels Collection (ADO MD)">
+						<param name="Local" value="htm/amcollevels.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Levels Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcollevelspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Members Collection (ADO MD)">
+						<param name="Local" value="htm/amcolmembers.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Members Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcolmemberspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Positions Collection (ADO MD)">
+						<param name="Local" value="htm/amcolpositions.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Positions Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/amcolpositionspme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Properties">
+					<param name="Local" value="htm/ammscadomdproperties.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActiveConnection Property (ADO MD)">
+						<param name="Local" value="htm/amproactiveconnection.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Caption Property (ADO MD)">
+						<param name="Local" value="htm/amprocaption.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ChildCount Property (ADO MD)">
+						<param name="Local" value="htm/amprochildcount.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Children Property (ADO MD)">
+						<param name="Local" value="htm/amprochildren.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Depth Property (ADO MD)">
+						<param name="Local" value="htm/amprodepth.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Description Property (ADO MD)">
+						<param name="Local" value="htm/amprodescription.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DimensionCount Property (ADO MD)">
+						<param name="Local" value="htm/amprodimensioncount.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DrilledDown Property (ADO MD)">
+						<param name="Local" value="htm/amprodrilleddown.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FilterAxis Property (ADO MD)">
+						<param name="Local" value="htm/amprofilteraxis.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="FormattedValue Property (ADO MD)">
+						<param name="Local" value="htm/amproformattedvalue.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Item Property (ADO MD Cellset)">
+						<param name="Local" value="htm/amproitem.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LevelDepth Property (ADO MD)">
+						<param name="Local" value="htm/amproleveldepth.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="LevelName Property (ADO MD)">
+						<param name="Local" value="htm/amprolevelname.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Name Property (ADO MD)">
+						<param name="Local" value="htm/amproname.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Ordinal Property (ADO MD Cell)">
+						<param name="Local" value="htm/amproordinalcell.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Ordinal Property (ADO MD Position)">
+						<param name="Local" value="htm/amproordinalposition.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Parent Property (ADO MD)">
+						<param name="Local" value="htm/amproparent.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParentSameAsPrev Property (ADO MD)">
+						<param name="Local" value="htm/amproparentsameasprev.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Source Property (ADO MD)">
+						<param name="Local" value="htm/amprosource.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="State Property (ADO MD)">
+						<param name="Local" value="htm/amprostate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (ADO MD)">
+						<param name="Local" value="htm/amprotype.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="UniqueName Property (ADO MD)">
+						<param name="Local" value="htm/amprouniquename.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Value Property (ADO MD)">
+						<param name="Local" value="htm/amprovalue.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Methods">
+					<param name="Local" value="htm/ammscadomdmethods.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Close Method (ADO MD)">
+						<param name="Local" value="htm/ammthclose.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Open Method (ADO MD)">
+						<param name="Local" value="htm/ammthopen.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Enumerated Constants">
+					<param name="Local" value="htm/ammscadomdenumeratedconstants.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="MemberTypeEnum">
+						<param name="Local" value="htm/amcstmembertypeenum.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADO MD Code Examples">
+					<param name="Local" value="htm/ammscadomdexamples.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO MD Code Examples in Visual Basic">
+						<param name="Local" value="htm/ammscadomdcodeexamplesvb.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Cellset Example (VB)">
+							<param name="Local" value="htm/amobjvbadosimpleexamplevbx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Catalog Example (VB)">
+							<param name="Local" value="htm/amobjvbadocubedocexamplevbx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADO MD Code Examples in Visual Basic, Scripting Edition">
+						<param name="Local" value="htm/ammscadomdcodeexamplesvbscript.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Axis Example (VBScript)">
+							<param name="Local" value="htm/amobjaspadosimpleexamplevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Members Example (VBScript)">
+							<param name="Local" value="htm/amobjaspadocomplexexamplevbscriptx.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="CubeDef Example (VBScript)">
+							<param name="Local" value="htm/amobjaspadocubedocexamplevbscriptx.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ADOX API Reference">
+				<param name="Local" value="htm/admscadoapireference.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Object Model">
+					<param name="Local" value="htm/admscobjectmodel.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Objects">
+					<param name="Local" value="htm/admscadoddlobjects.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Catalog Object (ADOX)">
+						<param name="Local" value="htm/adobjcatalog.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjcatalogpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Column Object (ADOX)">
+						<param name="Local" value="htm/adobjcolumn.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjcolumnpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Group Object (ADOX)">
+						<param name="Local" value="htm/adobjgroup.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjgrouppme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Index Object (ADOX)">
+						<param name="Local" value="htm/adobjindex.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjindexpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Key Object (ADOX)">
+						<param name="Local" value="htm/adobjkey.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjkeypme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Procedure Object (ADOX)">
+						<param name="Local" value="htm/adobjprocedure.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjprocedurepme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Table Object (ADOX)">
+						<param name="Local" value="htm/adobjtable.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjtablepme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="User Object (ADOX)">
+						<param name="Local" value="htm/adobjuser.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjuserpme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="View Object (ADOX)">
+						<param name="Local" value="htm/adobjview.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Properties, Methods, and Events">
+							<param name="Local" value="htm/adobjviewpme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Collections">
+					<param name="Local" value="htm/admscadoddlcollections.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Columns Collection (ADOX)">
+						<param name="Local" value="htm/adcolcolumns.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Columns Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolcolumnspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Groups Collection (ADOX)">
+						<param name="Local" value="htm/adcolgroups.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Groups Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolgroupspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Indexes Collection (ADOX)">
+						<param name="Local" value="htm/adcolindexes.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Indexes Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolindexespme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Keys Collection (ADOX)">
+						<param name="Local" value="htm/adcolkeys.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Keys Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolkeyspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Procedures Collection (ADOX)">
+						<param name="Local" value="htm/adcolprocedures.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Procedures Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolprocedurespme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Tables Collection (ADOX)">
+						<param name="Local" value="htm/adcoltables.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Tables Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcoltablespme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Users Collection (ADOX)">
+						<param name="Local" value="htm/adcolusers.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Users Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcoluserspme.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Views Collection (ADOX)">
+						<param name="Local" value="htm/adcolviews.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views Collection Properties, Methods, and Events">
+							<param name="Local" value="htm/adcolviewspme.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Properties">
+					<param name="Local" value="htm/admscadoddlproperties.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActiveConnection Property (ADOX)">
+						<param name="Local" value="htm/adproactiveconnection.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Attributes Property (ADOX)">
+						<param name="Local" value="htm/adproattributes.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Clustered Property (ADOX)">
+						<param name="Local" value="htm/adproclustered.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Command Property (ADOX)">
+						<param name="Local" value="htm/adprocommand.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DateCreated Property (ADOX)">
+						<param name="Local" value="htm/adprodatecreated.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DateModified Property (ADOX)">
+						<param name="Local" value="htm/adprodatemodified.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DefinedSize Property (ADOX)">
+						<param name="Local" value="htm/adprodefinedsize.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="DeleteRule Property (ADOX)">
+						<param name="Local" value="htm/adprodeleterule.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="IndexNulls Property (ADOX)">
+						<param name="Local" value="htm/adproindexnulls.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Name Property (ADOX)">
+						<param name="Local" value="htm/adproname.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="NumericScale Property (ADOX)">
+						<param name="Local" value="htm/adpronumericscale.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ParentCatalog Property (ADOX)">
+						<param name="Local" value="htm/adproparentcatalog.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Precision Property (ADOX)">
+						<param name="Local" value="htm/adproprecision.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="PrimaryKey Property (ADOX)">
+						<param name="Local" value="htm/adproprimarykey.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RelatedColumn Property (ADOX)">
+						<param name="Local" value="htm/adprorelatedcolumn.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RelatedTable Property (ADOX)">
+						<param name="Local" value="htm/adprorelatedtable.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SortOrder Property (ADOX)">
+						<param name="Local" value="htm/adprosortorder.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (Column) (ADOX)">
+						<param name="Local" value="htm/adprotypecolumn.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (Key) (ADOX)">
+						<param name="Local" value="htm/adprotypekey.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Type Property (Table) (ADOX)">
+						<param name="Local" value="htm/adprotypetable.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Unique Property (ADOX)">
+						<param name="Local" value="htm/adprounique.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="UpdateRule Property (ADOX)">
+						<param name="Local" value="htm/adproupdaterule.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Methods">
+					<param name="Local" value="htm/admscadoddlmethods.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Columns)">
+						<param name="Local" value="htm/admthappendcolumns.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Groups)">
+						<param name="Local" value="htm/admthappendgroups.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Indexes)">
+						<param name="Local" value="htm/admthappendindexes.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Keys)">
+						<param name="Local" value="htm/admthappendkeys.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Procedures)">
+						<param name="Local" value="htm/admthappendprocedures.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Tables)">
+						<param name="Local" value="htm/admthappendtables.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Users)">
+						<param name="Local" value="htm/admthappendusers.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Append Method (ADOX Views)">
+						<param name="Local" value="htm/admthappendviews.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ChangePassword Method (ADOX)">
+						<param name="Local" value="htm/admthchangepassword.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Create Method (ADOX)">
+						<param name="Local" value="htm/admthcreate.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Delete Method (ADOX Collections)">
+						<param name="Local" value="htm/admthdelete.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetObjectOwner Method (ADOX)">
+						<param name="Local" value="htm/admthgetobjectowner.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="GetPermissions Method (ADOX)">
+						<param name="Local" value="htm/admthgetpermissions.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SetObjectOwner method [ADOX]">
+						<param name="Local" value="htm/admthsetobjectowner.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SetPermissions Method (ADOX)">
+						<param name="Local" value="htm/admthsetpermissions.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Enumerated Constants">
+					<param name="Local" value="htm/admscadoxenumeratedconstants.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ActionEnum">
+						<param name="Local" value="htm/adcstactionenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="AllowNullsEnum">
+						<param name="Local" value="htm/adcstallownullsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ColumnAttributesEnum">
+						<param name="Local" value="htm/adcstcolumnattributesenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="InheritTypeEnum">
+						<param name="Local" value="htm/adcstinherittypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="KeyTypeEnum">
+						<param name="Local" value="htm/adcstkeytypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ObjectTypeEnum">
+						<param name="Local" value="htm/adcstobjecttypeenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RightsEnum">
+						<param name="Local" value="htm/adcstrightsenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="RuleEnum">
+						<param name="Local" value="htm/adcstruleenum.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="SortOrderEnum">
+						<param name="Local" value="htm/adcstsortorderenum.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ADOX Code Examples">
+					<param name="Local" value="htm/admscadoddlexamples.htm">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADOX Code Examples in Microsoft Visual Basic">
+						<param name="Local" value="htm/admscadoxcodeexamplesvb.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Attributes Property Example (VB)">
+							<param name="Local" value="htm/admscattributespropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Catalog ActiveConnection Property Example (VB)">
+							<param name="Local" value="htm/admscconnectionopeningexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clustered Property Example (VB)">
+							<param name="Local" value="htm/admscclusteredpropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Columns and Tables Append Methods, Name Property Example (VB)">
+							<param name="Local" value="htm/admsctablecreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Command and CommandText Properties Example (VB)">
+							<param name="Local" value="htm/admscproceduretextexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Connection Close Method, Table Type Property Example (VB)">
+							<param name="Local" value="htm/admscconnectionclosingexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Create Method Example (VB)">
+							<param name="Local" value="htm/admscdatabasecreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DateCreated and DateModified Properties Example (VB)">
+							<param name="Local" value="htm/admscdatecreateddatemodifiedpropertiesexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DefinedSize Property Example (VB)">
+							<param name="Local" value="htm/admscdefinedsizepropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DeleteRule Property Example (VB)">
+							<param name="Local" value="htm/admscdeleterulepropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetObjectOwner and SetObjectOwner Methods Example (VB)">
+							<param name="Local" value="htm/admscgetobjectownersetobjectownermethodsexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetPermissions and SetPermissions Methods Example (VB)">
+							<param name="Local" value="htm/admscgrantingpermissionsexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Groups and Users Append, ChangePassword Methods Example (VB)">
+							<param name="Local" value="htm/admscgroupsusersappendchangepasswordmethodsexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Indexes Append Method Example (VB)">
+							<param name="Local" value="htm/admscindexcreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="IndexNulls Property Example (VB)">
+							<param name="Local" value="htm/admscindexnullspropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Keys Append Method, Key Type, RelatedColumn, RelatedTable and UpdateRule Properties Example (VB)">
+							<param name="Local" value="htm/admsckeycreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NumericScale and Precision Properties Example (VB)">
+							<param name="Local" value="htm/admscnumericscaleprecisionpropertiesexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Parameters Collection, Command Property Example (VB)">
+							<param name="Local" value="htm/admscprocedureparameterexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ParentCatalog Property Example (VB)">
+							<param name="Local" value="htm/admscparentcatalogexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="PrimaryKey and Unique Properties Example (VB)">
+							<param name="Local" value="htm/admscprimarykeyuniquepropertiesexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Procedures Append Method Example (VB)">
+							<param name="Local" value="htm/admscprocedurecreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Procedures Delete Method Example (VB)">
+							<param name="Local" value="htm/admscproceduredeletionexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Procedures Refresh Method Example (VB)">
+							<param name="Local" value="htm/admscprocedurerefreshexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="SortOrder Property Example (VB)">
+							<param name="Local" value="htm/admscsortorderpropertyexamplex.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views and Fields Collections Example (VB)">
+							<param name="Local" value="htm/admscviewfieldexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views Append Method Example (VB)">
+							<param name="Local" value="htm/admscviewcreationexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views Collection, CommandText Property Example (VB)">
+							<param name="Local" value="htm/admscviewtextexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views Delete Method Example (VB)">
+							<param name="Local" value="htm/admscviewdeletionexample.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Views Refresh Method Example (VB)">
+							<param name="Local" value="htm/admscviewsrefreshx.htm">
+							</OBJECT>
+					</UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="ADOX Code Examples in Microsoft Visual C++">
+						<param name="Local" value="htm/admscadoxcodeexamplesvc.htm">
+						</OBJECT>
+					<UL>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Attributes Property Example (VC++)">
+							<param name="Local" value="htm/adproattributesxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Catalog ActiveConnection Property Example (VC++)">
+							<param name="Local" value="htm/adproactiveconnectionxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Clustered Property Example (VC++)">
+							<param name="Local" value="htm/adproclusteredxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Columns and Tables Append Methods, Name Property Example (VC++)">
+							<param name="Local" value="htm/admthappendxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Command and CommandText Properties Example (VC++)">
+							<param name="Local" value="htm/adprocommandxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Connection Close Method, Table Type Property Example (VC++)">
+							<param name="Local" value="htm/admthconnectionclosexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Create Method Example (VC++)">
+							<param name="Local" value="htm/admthcreatexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DateCreated and DateModified Properties Example (VC++)">
+							<param name="Local" value="htm/adprodatecreatedxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DefinedSize Property Example (VC++)">
+							<param name="Local" value="htm/adprodefinedsizexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="DeleteRule Property Example (VC++)">
+							<param name="Local" value="htm/adprodeleterulexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetObjectOwner and SetObjectOwner Methods Example (VC++)">
+							<param name="Local" value="htm/admthgetobjectownerxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="GetPermissions and SetPermissions Methods Example (VC++)">
+							<param name="Local" value="htm/admthgetpermissionsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Groups and Users Append, ChangePassword Methods Example (VC++)">
+							<param name="Local" value="htm/admthgroupsusersappendxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Indexes Append Method Example (VC++)">
+							<param name="Local" value="htm/admthindexesappendxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="IndexNulls Property Example (VC++)">
+							<param name="Local" value="htm/adproindexnullsxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Keys Append Method, Key Type, RelatedColumn, RelatedTable and UpdateRule Properties Example (VC++)">
+							<param name="Local" value="htm/admthkeysappendxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="NumericScale and Precision Properties Example (VC++)">
+							<param name="Local" value="htm/adpronumericscalexvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="Parameters Collection, Command Property Example (VC++)">
+							<param name="Local" value="htm/adproparameterscollectionxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="ParentCatalog Property Example (VC++)">
+							<param name="Local" value="htm/adproparentcatalogxvc.htm">
+							</OBJECT>
+						<LI> <OBJECT type="text/sitemap">
+							<param name="Name" value="PrimaryKey and Unique Properties Example (VC++)">
+							<param name="Local" value="htm/adproprimarykeyxvc.htm">
+							</OBJECT>
+					</UL>
+				</UL>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Legal and Copyright Information">
+			<param name="Local" value="htm/ado_sdk_copyright_and_trademarks.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

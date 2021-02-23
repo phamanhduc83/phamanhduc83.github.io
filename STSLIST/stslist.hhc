@@ -1,0 +1,344 @@
+<HTML>
+	<HEAD>
+	<!-- Sitemap 1.0 -->
+	</HEAD>
+	<BODY>
+		<UL>
+			<LI><OBJECT type="text/sitemap"><param name="Name" value="Office List Datasheet View 2007"></OBJECT>
+			<UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Startup and settings"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About Access Web Datasheet"><param name="Local" value="html/DSView_HP10355214.htm">About Access Web Datasheet</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Software requirements for Access Web Datasheet"><param name="Local" value="html/SWReqs_HP10355400.htm">Software requirements for Access Web Datasheet</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Display product and computer information"><param name="Local" value="html/About_HP10355287.htm">Display product and computer information</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Get help in Access Web Datasheet"><param name="Local" value="html/GetHelp_HP10355316.htm">Get help in Access Web Datasheet</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot Access Web Datasheet"><param name="Local" value="html/TrbVues_HP10355427.htm">Troubleshoot Access Web Datasheet</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Customizing datasheet views"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Make Datasheet view the default view"><param name="Local" value="html/MkDfalt_HP10355342.htm">Make Datasheet view the default view</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Show, hide, or resize  the task pane"><param name="Local" value="html/SHTask_HP10355394.htm">Show, hide, or resize  the task pane</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Accessibility"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Keyboard shortcuts"><param name="Local" value="html/Kbored_HP10355331.htm">Keyboard shortcuts</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with data"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="How does Access Web Datasheet retrieve and update data?"><param name="Local" value="html/AbtAData_HP10355320.htm">How does Access Web Datasheet retrieve and update data?</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Select a cell, row, column, or list"><param name="Local" value="html/Select_HP10355391.htm">Select a cell, row, column, or list</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with rows and columns"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Add a multi-valued choice column"><param name="Local" value="html/AddMVChoice_HA10355234.htm">Add a multi-valued choice column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Add a multi-valued lookup column"><param name="Local" value="html/AddMVLookup_HA10355235.htm">Add a multi-valued lookup column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Add a row or column"><param name="Local" value="html/AddRC_HP10355236.htm">Add a row or column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Change column width"><param name="Local" value="html/ChColW_HP10355257.htm">Change column width</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Change row height"><param name="Local" value="html/CHRowHt_HP10355258.htm">Change row height</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Delete a row or column"><param name="Local" value="html/DelRC_HP10355285.htm">Delete a row or column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Modify a column"><param name="Local" value="html/ModCol_HP10355353.htm">Modify a column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Rearrange columns"><param name="Local" value="html/ColReord_HP10355378.htm">Rearrange columns</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Show or hide a column"><param name="Local" value="html/SHCol_HP10355392.htm">Show or hide a column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="View previous entries in a Multiple lines of text column"><param name="Local" value="html/ViewEntries_HA10355447.htm">View previous entries in a Multiple lines of text column</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Editing data"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="About data types"><param name="Local" value="html/DTypes_HP10355218.htm">About data types</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Specify a default value for a column"><param name="Local" value="html/DefVal_HP10355402.htm">Specify a default value for a column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot data types"><param name="Local" value="html/TTypes_HP10355429.htm">Troubleshoot data types</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Add, edit, or delete cell contents"><param name="Local" value="html/AEDdata_HP10355238.htm">Add, edit, or delete cell contents</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Edit a hyperlink"><param name="Local" value="html/EdHyp_HP10355291.htm">Edit a hyperlink</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Enter data in a cell by selecting from a list of values"><param name="Local" value="html/PikLst_HP10355292.htm">Enter data in a cell by selecting from a list of values</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Get notified when contents of a list are modified"><param name="Local" value="html/Notify_HP10355317.htm">Get notified when contents of a list are modified</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Undo changes"><param name="Local" value="html/Undo_HP10355437.htm">Undo changes</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Validate data "><param name="Local" value="html/Validd_HP10355440.htm">Validate data </OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Formatting data"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Format data"><param name="Local" value="html/Format_HP10355310.htm">Format data</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Turn on or off text wrapping for a column"><param name="Local" value="html/WrapOO_HP10355436.htm">Turn on or off text wrapping for a column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot formatting data"><param name="Local" value="html/TFormat_HP10355430.htm">Troubleshoot formatting data</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Filtering and sorting"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="About filtering data"><param name="Local" value="html/Filter_HP10355222.htm">About filtering data</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Apply a filter"><param name="Local" value="html/AppFil_HP10355241.htm">Apply a filter</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Remove a filter or sort order"><param name="Local" value="html/RFilSort_HP10355380.htm">Remove a filter or sort order</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Sort rows"><param name="Local" value="html/Sortlist_HP10355401.htm">Sort rows</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot sorting and filtering"><param name="Local" value="html/TSoFi_HP10355432.htm">Troubleshoot sorting and filtering</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Bulk-editing data"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="About moving, copying, and pasting cell contents"><param name="Local" value="html/CutCP_HP10355227.htm">About moving, copying, and pasting cell contents</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Automatically fill cells with data"><param name="Local" value="html/FillCell_HP10355249.htm">Automatically fill cells with data</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot automatically filling cells with data"><param name="Local" value="html/TAFill_HP10355428.htm">Troubleshoot automatically filling cells with data</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot moving, copying, and pasting cell contents"><param name="Local" value="html/TrbCCP_HP10355431.htm">Troubleshoot moving, copying, and pasting cell contents</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with lists requiring content approval"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Approve or reject pending items"><param name="Local" value="html/AppRej_HP10355242.htm">Approve or reject pending items</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Submitting data changes to a list manager for approval"><param name="Local" value="html/Modlist_HP10355412.htm">Submitting data changes to a list manager for approval</OBJECT>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with document libraries and attachments"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About working with document libraries"><param name="Local" value="html/Abtdocl_HP10355230.htm">About working with document libraries</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Add, view, or remove documents attached to a row"><param name="Local" value="html/EditAtt_HP10355239.htm">Add, view, or remove documents attached to a row</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Check in or out a document"><param name="Local" value="html/CheckIO_HP10355261.htm">Check in or out a document</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Delete a folder or document "><param name="Local" value="html/DelFD_HP10355284.htm">Delete a folder or document </OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Edit a document "><param name="Local" value="html/EditDoc_HP10355289.htm">Edit a document </OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Establish item-level permissions"><param name="Local" value="html/ItemPermissions_HA10355293.htm">Establish item-level permissions</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Make a document available for discussions "><param name="Local" value="html/DocDisc_HP10355341.htm">Make a document available for discussions </OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Open a folder or document "><param name="Local" value="html/OpenFD_HP10355364.htm">Open a folder or document </OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Track and view version information for list items"><param name="Local" value="html/ViewVersions_HA10355425.htm">Track and view version information for list items</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="View versions of a document "><param name="Local" value="html/VueVer_HP10355448.htm">View versions of a document </OBJECT>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Resolving conflicts and errors"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About resolving conflicting changes"><param name="Local" value="html/ConResol_HP10355228.htm">About resolving conflicting changes</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About resolving errors"><param name="Local" value="html/ResErr_HP10355229.htm">About resolving errors</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Resolve conflicting changes and errors"><param name="Local" value="html/Resolve_HP10355383.htm">Resolve conflicting changes and errors</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="When do conflicts occur?"><param name="Local" value="html/Conflix_HP10355451.htm">When do conflicts occur?</OBJECT>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with other programs"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Exporting datasheet views"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="About exporting a Datasheet view"><param name="Local" value="html/aExpDtsh_HP10355221.htm">About exporting a Datasheet view</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Query a list with Excel"><param name="Local" value="html/aExpXl_HP10355375.htm">Query a list with Excel</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Export contact or event information"><param name="Local" value="html/lstExportcontactevents_HP10355299.htm">Export contact or event information</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Export or link a Datasheet view to Access"><param name="Local" value="html/aExpAx_HP10355300.htm">Export or link a Datasheet view to Access</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with Access"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Create an Access report"><param name="Local" value="html/aRptAx_HP10355273.htm">Create an Access report</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Working with Excel"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Create an Excel chart"><param name="Local" value="html/aChrtXl_HP10355274.htm">Create an Excel chart</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Create an Excel PivotTable"><param name="Local" value="html/aPvtTbl_HP10355275.htm">Create an Excel PivotTable</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Print a Datasheet view with Excel"><param name="Local" value="html/aPrtXl_HP10355371.htm">Print a Datasheet view with Excel</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Totals and calculated values"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About calculation operators"><param name="Local" value="html/CalcOper_HP10355215.htm">About calculation operators</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About column references in a formula"><param name="Local" value="html/ColRef_HP10355216.htm">About column references in a formula</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About constants in formulas"><param name="Local" value="html/AbtConst_HP10355217.htm">About constants in formulas</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About displaying totals and calculated values"><param name="Local" value="html/TotCVal_HP10355220.htm">About displaying totals and calculated values</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About formulas"><param name="Local" value="html/Formulas_HP10355223.htm">About formulas</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Edit a formula"><param name="Local" value="html/EdForm_HP10355290.htm">Edit a formula</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Examples of common formulas"><param name="Local" value="html/EgForm_HP10355296.htm">Examples of common formulas</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Show or hide aggregate values"><param name="Local" value="html/SHTot_HP10355393.htm">Show or hide aggregate values</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshoot totals and calculated values"><param name="Local" value="html/TrbCalc_HP10355433.htm">Troubleshoot totals and calculated values</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="About functions"><param name="Local" value="html/Funct_HP10355224.htm">About functions</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Add or edit a calculated column"><param name="Local" value="html/AdEdCC_HP10355237.htm">Add or edit a calculated column</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Change the type of total value displayed in a column"><param name="Local" value="html/TotType_HP10355259.htm">Change the type of total value displayed in a column</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Function reference"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Date and time"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DATE"><param name="Local" value="html/ldate_HP10355277.htm">DATE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DATEDIF"><param name="Local" value="html/ldatedif_HP10355278.htm">DATEDIF</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DATETIME"><param name="Local" value="html/datetime_HA10379750.htm">DATETIME</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DATEVALUE"><param name="Local" value="html/ldateval_HP10355279.htm">DATEVALUE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DAY"><param name="Local" value="html/lday_HP10355280.htm">DAY</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DAYS360"><param name="Local" value="html/ldays360_HP10355281.htm">DAYS360</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="HOUR"><param name="Local" value="html/lhour_HP10355319.htm">HOUR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MINUTE"><param name="Local" value="html/lminute_HP10355350.htm">MINUTE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MONTH"><param name="Local" value="html/lmonth_HP10355354.htm">MONTH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NOW.TIME"><param name="Local" value="html/nowtime_HA10379751.htm">NOW.TIME</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SECOND"><param name="Local" value="html/lsecond_HP10355390.htm">SECOND</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TIME"><param name="Local" value="html/ltime_HP10355421.htm">TIME</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TIMEVALUE"><param name="Local" value="html/ltimeval_HP10355422.htm">TIMEVALUE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TODAY"><param name="Local" value="html/ltoday_HP10355424.htm">TODAY</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="WEEKDAY"><param name="Local" value="html/lweekday_HP10355449.htm">WEEKDAY</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="YEAR"><param name="Local" value="html/lyear_HP10355452.htm">YEAR</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Financial"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DDB"><param name="Local" value="html/lddb_HP10355282.htm">DDB</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FV"><param name="Local" value="html/lfv_HP10355311.htm">FV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="IPMT"><param name="Local" value="html/lipmt_HP10355328.htm">IPMT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ISPMT"><param name="Local" value="html/lispmt_HP10355330.htm">ISPMT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NPER"><param name="Local" value="html/lnper_HP10355361.htm">NPER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NPV"><param name="Local" value="html/lnpv_HP10355362.htm">NPV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PMT"><param name="Local" value="html/lpmt_HP10355367.htm">PMT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PPMT"><param name="Local" value="html/lppmt_HP10355370.htm">PPMT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PV"><param name="Local" value="html/lpv_HP10355374.htm">PV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="RATE"><param name="Local" value="html/lrate_HP10355377.htm">RATE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SLN"><param name="Local" value="html/lsln_HP10355399.htm">SLN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SYD"><param name="Local" value="html/lsyd_HP10355415.htm">SYD</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Information"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="IS"><param name="Local" value="html/lnow_HP10355329.htm">IS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Me"><param name="Local" value="html/lme_HP10355345.htm">Me</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Logical"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="AND"><param name="Local" value="html/land_HP10355240.htm">AND</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CHOOSE"><param name="Local" value="html/lchoose_HP10355264.htm">CHOOSE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FALSE"><param name="Local" value="html/lfalse_HP10355302.htm">FALSE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="IF"><param name="Local" value="html/lif4_HP10355326.htm">IF</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NOT"><param name="Local" value="html/lnot_HP10355360.htm">NOT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="OR"><param name="Local" value="html/lor_HP10355365.htm">OR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TRUE"><param name="Local" value="html/ltrue_HP10355434.htm">TRUE</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Math and trigonometry"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ABS"><param name="Local" value="html/labs_HP10355231.htm">ABS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ACOS"><param name="Local" value="html/lacos_HP10355232.htm">ACOS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ACOSH"><param name="Local" value="html/lacosh_HP10355233.htm">ACOSH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ASIN"><param name="Local" value="html/lasin_HP10355244.htm">ASIN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ASINH"><param name="Local" value="html/lasinh_HP10355245.htm">ASINH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ATAN"><param name="Local" value="html/latan_HP10355246.htm">ATAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ATAN2"><param name="Local" value="html/latan2_HP10355247.htm">ATAN2</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ATANH"><param name="Local" value="html/latanh_HP10355248.htm">ATANH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CEILING"><param name="Local" value="html/lceiling_HP10355256.htm">CEILING</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="COS"><param name="Local" value="html/lcos_HP10355269.htm">COS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="COSH"><param name="Local" value="html/lcosh_HP10355270.htm">COSH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DEGREES"><param name="Local" value="html/ldegrees_HP10355283.htm">DEGREES</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="EVEN"><param name="Local" value="html/leven_HP10355294.htm">EVEN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="EXP"><param name="Local" value="html/lexp_HP10355297.htm">EXP</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FACT"><param name="Local" value="html/lfact_HP10355301.htm">FACT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FLOOR"><param name="Local" value="html/lfloor_HP10355309.htm">FLOOR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="INT"><param name="Local" value="html/lint_HP10355327.htm">INT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LN"><param name="Local" value="html/lln_HP10355335.htm">LN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LOG"><param name="Local" value="html/llog_HP10355336.htm">LOG</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LOG10"><param name="Local" value="html/llog10_HP10355337.htm">LOG10</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MOD"><param name="Local" value="html/lmod_HP10355351.htm">MOD</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ODD"><param name="Local" value="html/lodd_HP10355363.htm">ODD</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PI"><param name="Local" value="html/lpi_HP10355366.htm">PI</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="POWER"><param name="Local" value="html/lpower_HP10355369.htm">POWER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PRODUCT"><param name="Local" value="html/lproduct_HP10355372.htm">PRODUCT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="RADIANS"><param name="Local" value="html/lradians_HP10355376.htm">RADIANS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ROMAN"><param name="Local" value="html/lroman_HP10355385.htm">ROMAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ROUND"><param name="Local" value="html/lround_HP10355386.htm">ROUND</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ROUNDDOWN"><param name="Local" value="html/lroundd_HP10355387.htm">ROUNDDOWN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ROUNDUP"><param name="Local" value="html/lroundup_HP10355388.htm">ROUNDUP</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SIGN"><param name="Local" value="html/lsign_HP10355395.htm">SIGN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SIN"><param name="Local" value="html/lsin_HP10355396.htm">SIN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SINH"><param name="Local" value="html/lsinh_HP10355397.htm">SINH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SQRT"><param name="Local" value="html/lsqrt_HP10355403.htm">SQRT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SUM"><param name="Local" value="html/lsum_HP10355413.htm">SUM</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SUMSQ"><param name="Local" value="html/lsumsq_HP10355414.htm">SUMSQ</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TAN"><param name="Local" value="html/ltan_HP10355417.htm">TAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TANH"><param name="Local" value="html/ltanh_HP10355418.htm">TANH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TRUNC"><param name="Local" value="html/ltrunc_HP10355435.htm">TRUNC</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Statistical"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="AVEDEV"><param name="Local" value="html/lavedev_HP10355250.htm">AVEDEV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="AVERAGE"><param name="Local" value="html/laverage_HP10355251.htm">AVERAGE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="AVERAGEA"><param name="Local" value="html/lAvea2_HP10355252.htm">AVERAGEA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="BETADIST"><param name="Local" value="html/lbetad_HP10355253.htm">BETADIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="BETAINV"><param name="Local" value="html/lbetainv_HP10355254.htm">BETAINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="BINOMDIST"><param name="Local" value="html/lbinomdi_HP10355255.htm">BINOMDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CHIDIST"><param name="Local" value="html/lchidist_HP10355262.htm">CHIDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CHIINV"><param name="Local" value="html/lchiinv_HP10355263.htm">CHIINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CONFIDENCE"><param name="Local" value="html/lconfide_HP10355268.htm">CONFIDENCE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="COUNT"><param name="Local" value="html/lcount_HP10355271.htm">COUNT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="COUNTA"><param name="Local" value="html/lcounta_HP10355272.htm">COUNTA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CRITBINOM"><param name="Local" value="html/lcritbin_HP10355276.htm">CRITBINOM</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DEVSQ"><param name="Local" value="html/ldevsq_HP10355286.htm">DEVSQ</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="EXPONDIST"><param name="Local" value="html/lexpond_HP10355298.htm">EXPONDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FDIST"><param name="Local" value="html/lfdist_HP10355303.htm">FDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FINV"><param name="Local" value="html/lfinv_HP10355305.htm">FINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FISHER"><param name="Local" value="html/lfisher_HP10355306.htm">FISHER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FISHERINV"><param name="Local" value="html/lfisheri_HP10355307.htm">FISHERINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="GAMMADIST"><param name="Local" value="html/lgammad_HP10355312.htm">GAMMADIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="GAMMAINV"><param name="Local" value="html/lgammai_HP10355313.htm">GAMMAINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="GAMMALN"><param name="Local" value="html/lgammaln_HP10355314.htm">GAMMALN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="GEOMEAN"><param name="Local" value="html/lgeomean_HP10355315.htm">GEOMEAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="HARMEAN"><param name="Local" value="html/lharmean_HP10355318.htm">HARMEAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="HYPGEOMDIST"><param name="Local" value="html/lhypgeo_HP10355321.htm">HYPGEOMDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="KURT"><param name="Local" value="html/lkurt_HP10355332.htm">KURT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LOGINV"><param name="Local" value="html/lloginv_HP10355338.htm">LOGINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LOGNORMDIST"><param name="Local" value="html/llognorm_HP10355339.htm">LOGNORMDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MAX"><param name="Local" value="html/lmax_HP10355343.htm">MAX</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MAXA"><param name="Local" value="html/lmaxa_HP10355344.htm">MAXA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MEDIAN"><param name="Local" value="html/lmedian_HP10355346.htm">MEDIAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MIN"><param name="Local" value="html/lmin_HP10355348.htm">MIN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MINA"><param name="Local" value="html/lmina_HP10355349.htm">MINA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MODE"><param name="Local" value="html/lmode_HP10355352.htm">MODE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NEGBINOMDIST"><param name="Local" value="html/lnegbino_HP10355355.htm">NEGBINOMDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NORMDIST"><param name="Local" value="html/lnormd_HP10355356.htm">NORMDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NORMINV"><param name="Local" value="html/lnorminv_HP10355357.htm">NORMINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NORMSDIST"><param name="Local" value="html/lnormsd_HP10355358.htm">NORMSDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NORMSINV"><param name="Local" value="html/lnormsi_HP10355359.htm">NORMSINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="POISSON"><param name="Local" value="html/lpoisson_HP10355368.htm">POISSON</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SKEW"><param name="Local" value="html/lskew_HP10355398.htm">SKEW</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="STANDARDIZE"><param name="Local" value="html/lstandrd_HP10355404.htm">STANDARDIZE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="STDEV"><param name="Local" value="html/lstdev_HP10355408.htm">STDEV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="STDEVA"><param name="Local" value="html/lstdeva_HP10355409.htm">STDEVA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="STDEVP"><param name="Local" value="html/lstdevp_HP10355410.htm">STDEVP</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="STDEVPA"><param name="Local" value="html/lstdevpa_HP10355411.htm">STDEVPA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TDIST"><param name="Local" value="html/ltdist_HP10355419.htm">TDIST</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TINV"><param name="Local" value="html/ltinv_HP10355423.htm">TINV</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="VAR"><param name="Local" value="html/lvar_HP10355442.htm">VAR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="VARA"><param name="Local" value="html/lvara_HP10355443.htm">VARA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="VARP"><param name="Local" value="html/lvarp_HP10355444.htm">VARP</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="VARPA"><param name="Local" value="html/lvarpa_HP10355445.htm">VARPA</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="WEIBULL"><param name="Local" value="html/lweibull_HP10355450.htm">WEIBULL</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Text and data"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="ASC"><param name="Local" value="html/lasc_HP10355243.htm">ASC</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CHAR"><param name="Local" value="html/lchar_HP10355260.htm">CHAR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CLEAN"><param name="Local" value="html/lclean_HP10355265.htm">CLEAN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CODE"><param name="Local" value="html/lcode_HP10355266.htm">CODE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="CONCATENATE"><param name="Local" value="html/lconcate_HP10355267.htm">CONCATENATE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="DOLLAR"><param name="Local" value="html/ldollar_HP10355288.htm">DOLLAR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="EXACT"><param name="Local" value="html/lexact_HP10355295.htm">EXACT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FIND"><param name="Local" value="html/lfind_HP10355304.htm">FIND</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="FIXED"><param name="Local" value="html/lfixed_HP10355308.htm">FIXED</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LEFT"><param name="Local" value="html/lleft_HP10355333.htm">LEFT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LEN"><param name="Local" value="html/llen_HP10355334.htm">LEN</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="LOWER"><param name="Local" value="html/llower_HP10355340.htm">LOWER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="MID"><param name="Local" value="html/lmid_HP10355347.htm">MID</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NULL"><param name="Local" value="html/null_HA10379752.htm">NULL</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="NZ"><param name="Local" value="html/nz_HA10379756.htm">NZ</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="PROPER"><param name="Local" value="html/lproper_HP10355373.htm">PROPER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="REPLACE"><param name="Local" value="html/lreplace_HP10355381.htm">REPLACE</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="REPT"><param name="Local" value="html/lrept_HP10355382.htm">REPT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="RIGHT"><param name="Local" value="html/lright_HP10355384.htm">RIGHT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="SEARCH"><param name="Local" value="html/lsearch_HP10355389.htm">SEARCH</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="T"><param name="Local" value="html/lt_HP10355416.htm">T</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TEXT"><param name="Local" value="html/ltext_HP10355420.htm">TEXT</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TRIM"><param name="Local" value="html/ltrim_HP10355426.htm">TRIM</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="TRIMENDS"><param name="Local" value="html/trimends_HA10379757.htm">TRIMENDS</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="UPPER"><param name="Local" value="html/lupper_HP10355438.htm">UPPER</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="USDOLLAR"><param name="Local" value="html/lusdoll_HP10355439.htm">USDOLLAR</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="VALUE"><param name="Local" value="html/lvalue_HP10355441.htm">VALUE</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshooting"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About improving Access Web Datasheet  performance"><param name="Local" value="html/Improve_HP10355225.htm">About improving Access Web Datasheet  performance</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Error messages"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="I get the message 'List structure has changed'"><param name="Local" value="html/LstStru_HP10355322.htm">I get the message 'List structure has changed'</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="I get the message 'Stop submitting changes'"><param name="Local" value="html/Stopsub_HP10355323.htm">I get the message 'Stop submitting changes'</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="I get the message 'Submit pending changes'"><param name="Local" value="html/Submit_HP10355324.htm">I get the message 'Submit pending changes'</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="I get the message 'You have pending changes, or unresolved conflicts and errors.'"><param name="Local" value="html/Pending_HP10355325.htm">I get the message 'You have pending changes, or unresolved conflicts and errors.'</OBJECT>
+					</UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Status bar notifications"></OBJECT>
+					<UL>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Status bar displays 'Pending changes'"><param name="Local" value="html/PendCh_HP10355405.htm">Status bar displays 'Pending changes'</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Status bar displays 'Read-only' or 'This view is read-only'"><param name="Local" value="html/Readonly_HP10355406.htm">Status bar displays 'Read-only' or 'This view is read-only'</OBJECT>
+						<LI><OBJECT type="text/sitemap"><param name="Name" value="Status bar displays 'Retrieving data'"><param name="Local" value="html/RetData_HP10355407.htm">Status bar displays 'Retrieving data'</OBJECT>
+					</UL>
+				</UL>
+				<LI><OBJECT type="text/sitemap"><param name="Name" value="International support"></OBJECT>
+				<UL>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="About international support"><param name="Local" value="html/ListDS1_HP10355226.htm">About international support</OBJECT>
+					<LI><OBJECT type="text/sitemap"><param name="Name" value="Reconvert a determined character string"><param name="Local" value="html/ListDS6_HP10355379.htm">Reconvert a determined character string</OBJECT>
+				</UL>
+			</UL>
+		</UL>
+	</BODY>
+</HTML>

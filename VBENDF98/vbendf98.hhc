@@ -1,0 +1,633 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="access key">
+		<param name="Local" value="html/defaccesskey.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ActiveX control">
+		<param name="Local" value="html/defactivexcontrol.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ActiveX object">
+		<param name="Local" value="html/defactivexobject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="add-in">
+		<param name="Local" value="html/defaddin.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ANSI Character Set">
+		<param name="Local" value="html/defansi.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="application">
+		<param name="Local" value="html/defapplication.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="argument">
+		<param name="Local" value="html/defarg.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="array">
+		<param name="Local" value="html/defarray.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ASCII Character Set">
+		<param name="Local" value="html/defascii.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="automatic formatting">
+		<param name="Local" value="html/defautoformat.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Automation object">
+		<param name="Local" value="html/defoleautomationobject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="base class">
+		<param name="Local" value="html/defbaseclass.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="bitmap">
+		<param name="Local" value="html/defbitmap.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="bitwise comparison">
+		<param name="Local" value="html/defbitwise.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Boolean data type">
+		<param name="Local" value="html/defbooleandatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Boolean expression">
+		<param name="Local" value="html/defboolean.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="bound control">
+		<param name="Local" value="html/defboundcontrol.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="break mode">
+		<param name="Local" value="html/defbreakmode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="breakpoint">
+		<param name="Local" value="html/defbreakpoint.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="by reference">
+		<param name="Local" value="html/defbyreference.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="by value">
+		<param name="Local" value="html/defbyvalue.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Byte data type">
+		<param name="Local" value="html/defbytedatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="character code">
+		<param name="Local" value="html/defcharcode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="class">
+		<param name="Local" value="html/defclass.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="class module">
+		<param name="Local" value="html/defclassmodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="code module">
+		<param name="Local" value="html/defcodemodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="code pane">
+		<param name="Local" value="html/defcodepane.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="collection">
+		<param name="Local" value="html/defcollection.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="command line">
+		<param name="Local" value="html/defcommandline.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="comment">
+		<param name="Local" value="html/defcomment.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="comparison operator">
+		<param name="Local" value="html/defcomparisonoperator.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="compile time">
+		<param name="Local" value="html/defcompiletime.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="compiler directive">
+		<param name="Local" value="html/defcompilerdirective.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="conditional compiler constant">
+		<param name="Local" value="html/defconditionalcompilerconstant.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="constant">
+		<param name="Local" value="html/defconstant.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="container">
+		<param name="Local" value="html/defcontainer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="control">
+		<param name="Local" value="html/defcontrol.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="control array">
+		<param name="Local" value="html/defcontrolarray.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Currency data type">
+		<param name="Local" value="html/defcurrencydatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="data type">
+		<param name="Local" value="html/defdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Date data type">
+		<param name="Local" value="html/defdatedatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="date expression">
+		<param name="Local" value="html/defdateexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="date literal">
+		<param name="Local" value="html/defdateliteral.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="date separators">
+		<param name="Local" value="html/defdateseparators.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DBCS">
+		<param name="Local" value="html/defdbcs.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Decimal data type">
+		<param name="Local" value="html/defdecimaldatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="declaration">
+		<param name="Local" value="html/defdeclaration.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="design time">
+		<param name="Local" value="html/defdesigntime.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="designer">
+		<param name="Local" value="html/defdesigner.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="development environment">
+		<param name="Local" value="html/defdevelopmentenvironment.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="docked window">
+		<param name="Local" value="html/defdockedwindow.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="document">
+		<param name="Local" value="html/defdocument.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Double data type">
+		<param name="Local" value="html/defdoubledatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="dynamic data exchange (DDE)">
+		<param name="Local" value="html/defdde.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="dynamic-link library (DLL)">
+		<param name="Local" value="html/defdll.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Empty">
+		<param name="Local" value="html/defempty.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="error number">
+		<param name="Local" value="html/deferrornumber.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="event source object">
+		<param name="Local" value="html/defeventsourceobject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="executable file">
+		<param name="Local" value="html/defexecutablefile.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="expression">
+		<param name="Local" value="html/defexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="file number">
+		<param name="Local" value="html/deffilenumber.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="focus">
+		<param name="Local" value="html/deffocus.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="form">
+		<param name="Local" value="html/defform.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="form module">
+		<param name="Local" value="html/defformmodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Function procedure">
+		<param name="Local" value="html/deffunction.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="general procedure">
+		<param name="Local" value="html/defgeneral.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="graphics method">
+		<param name="Local" value="html/defgraphicsmethod.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="host application">
+		<param name="Local" value="html/defhostapplication.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="icon">
+		<param name="Local" value="html/deficon.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="identifier">
+		<param name="Local" value="html/defidentifier.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="in process">
+		<param name="Local" value="html/definprocess.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="insertable object">
+		<param name="Local" value="html/definsertableobject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Integer data type">
+		<param name="Local" value="html/defintegerdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="intrinsic constants">
+		<param name="Local" value="html/defintrinsicconstants.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="keyword">
+		<param name="Local" value="html/defkeyword.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="line label">
+		<param name="Local" value="html/deflinelabel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="line number">
+		<param name="Local" value="html/deflinenumber.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="line-continuation character">
+		<param name="Local" value="html/deflinecontchar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="linked window">
+		<param name="Local" value="html/deflinkedwindow.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="linked window frame">
+		<param name="Local" value="html/deflinkedwindowframe.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="locale">
+		<param name="Local" value="html/deflocale.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="logic error">
+		<param name="Local" value="html/deflogicerr.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Long data type">
+		<param name="Local" value="html/deflong.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="margin indicator">
+		<param name="Local" value="html/defmarginindicator.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MDI child">
+		<param name="Local" value="html/defmdichild.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MDI form">
+		<param name="Local" value="html/defmdiform.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="member">
+		<param name="Local" value="html/defmember.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="metafile">
+		<param name="Local" value="html/defmetafile.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="method">
+		<param name="Local" value="html/defmethod.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="module">
+		<param name="Local" value="html/defmodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="module level">
+		<param name="Local" value="html/defmodulelevel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="module variable">
+		<param name="Local" value="html/defmodulevariable.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="named argument">
+		<param name="Local" value="html/defnamedarguments.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Null">
+		<param name="Local" value="html/defnull.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="numeric data type">
+		<param name="Local" value="html/defnumericdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="numeric expression">
+		<param name="Local" value="html/defnumericexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="numeric type">
+		<param name="Local" value="html/defnumerictype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object">
+		<param name="Local" value="html/defobject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Object box">
+		<param name="Local" value="html/defobjectbox.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Object Browser">
+		<param name="Local" value="html/defobjectbrowser.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Object data type">
+		<param name="Local" value="html/defobjectdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object expression">
+		<param name="Local" value="html/defobjectexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object library">
+		<param name="Local" value="html/defobjectlibrary.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object module">
+		<param name="Local" value="html/defobjectmodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object type">
+		<param name="Local" value="html/defobjecttype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="object variable">
+		<param name="Local" value="html/defobjectvariable.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="parameter">
+		<param name="Local" value="html/defparameter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="path">
+		<param name="Local" value="html/defpath.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="pi">
+		<param name="Local" value="html/defpi.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="point">
+		<param name="Local" value="html/defpoint.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="print zone">
+		<param name="Local" value="html/defprintzone.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Private">
+		<param name="Local" value="html/defprivate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="procedure">
+		<param name="Local" value="html/defprocedure.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Procedure box">
+		<param name="Local" value="html/defprocedurebox.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="procedure call">
+		<param name="Local" value="html/defprocedurecall.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="procedure level">
+		<param name="Local" value="html/defproclevel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="project">
+		<param name="Local" value="html/defproject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Project window">
+		<param name="Local" value="html/defprojectwin.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Properties window">
+		<param name="Local" value="html/defpropertieswindow.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="property">
+		<param name="Local" value="html/defproperty.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Property procedure">
+		<param name="Local" value="html/defpropertyprocedure.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Public">
+		<param name="Local" value="html/defpublic.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="referenced project">
+		<param name="Local" value="html/defreferencedproject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="referencing project">
+		<param name="Local" value="html/defreferencingproject.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="registry">
+		<param name="Local" value="html/defregistry.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="resource file">
+		<param name="Local" value="html/defresourcefile.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="run time">
+		<param name="Local" value="html/defruntime.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="run-time error">
+		<param name="Local" value="html/defrterr.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="scope">
+		<param name="Local" value="html/defscoping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="seed">
+		<param name="Local" value="html/defseed.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Single data type">
+		<param name="Local" value="html/defsingledatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="sort order">
+		<param name="Local" value="html/defsortorder.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="stack">
+		<param name="Local" value="html/defstack.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="standard module">
+		<param name="Local" value="html/defstandardmodule.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="statement">
+		<param name="Local" value="html/defstatement.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="string comparison">
+		<param name="Local" value="html/defstringcomparison.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="string constant">
+		<param name="Local" value="html/defstringconstant.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="String data type">
+		<param name="Local" value="html/defstringdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="string expression">
+		<param name="Local" value="html/defstringexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="string literal">
+		<param name="Local" value="html/defstringliteral.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sub procedure">
+		<param name="Local" value="html/defsubprocedure.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="syntax checking">
+		<param name="Local" value="html/defsyntaxcheck.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="syntax error">
+		<param name="Local" value="html/defsyntaxerr.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="tab order">
+		<param name="Local" value="html/deftaborder.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="time expression">
+		<param name="Local" value="html/deftimeexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="twip">
+		<param name="Local" value="html/deftwip.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="type library">
+		<param name="Local" value="html/deftypelibrary.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="type-declaration character">
+		<param name="Local" value="html/deftypedeclarationcharacter.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Unicode">
+		<param name="Local" value="html/defunicode.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="universal date format">
+		<param name="Local" value="html/defuniversaldateformat.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="user-defined type">
+		<param name="Local" value="html/defuserdefinedtype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="variable">
+		<param name="Local" value="html/defvariable.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Variant data type">
+		<param name="Local" value="html/defvariantdatatype.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="variant expression">
+		<param name="Local" value="html/defvariantexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="watch expression">
+		<param name="Local" value="html/defwatchexpression.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="z-order">
+		<param name="Local" value="html/defzorder.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

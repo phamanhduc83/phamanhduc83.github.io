@@ -1,0 +1,2210 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Constants">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Calendar Constants">
+			<param name="Local" value="html/vamsccalendarconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CallType Constants">
+			<param name="Local" value="html/vacstCallType.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Color Constants">
+			<param name="Local" value="html/vamsccolorconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comparison Constants">
+			<param name="Local" value="html/vamscinstrstrcompconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Compiler Constants">
+			<param name="Local" value="html/vamsccompilerconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Date Constants">
+			<param name="Local" value="html/vamscdateconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Date Format Constants">
+			<param name="Local" value="html/vamscdateformatconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dir Constants">
+			<param name="Local" value="html/vamscdirgetattrsetattrconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DriveType Constants">
+			<param name="Local" value="html/vamscdrivetypeconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="File Attribute Constants">
+			<param name="Local" value="html/vamscfileattributeconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="File Input/Output Constants">
+			<param name="Local" value="html/vamscfileinputoutputconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Form Constants">
+			<param name="Local" value="html/vacstForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetAttr Constants">
+			<param name="Local" value="html/vamscdirgetattrsetattrconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="IMEStatus Constants">
+			<param name="Local" value="html/vamscimestatusconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Keycode Constants">
+			<param name="Local" value="html/vamsckeycodeconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Miscellaneous Constants">
+			<param name="Local" value="html/vamscmiscellaneousconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="MsgBox Constants">
+			<param name="Local" value="html/vamscmsgboxconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="QueryClose Constants">
+			<param name="Local" value="html/vamscquerycloseconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SetAttr Constants">
+			<param name="Local" value="html/vamscdirgetattrsetattrconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Shell Constants">
+			<param name="Local" value="html/vamscshellconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SpecialFolder Constants">
+			<param name="Local" value="html/vamscspecialfolderconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="StrConv Constants">
+			<param name="Local" value="html/vamscstrconvconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="System Color Constants">
+			<param name="Local" value="html/vamscsystemcolorconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tristate Constants">
+			<param name="Local" value="html/vamsctristateconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="VarType Constants">
+			<param name="Local" value="html/vamscvartypeconstants.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Visual Basic Constants">
+			<param name="Local" value="html/vamsctypelibconstants.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Data Types">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Boolean Data Type">
+			<param name="Local" value="html/vadatboolean.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Byte Data Type">
+			<param name="Local" value="html/vadatbyte.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Currency Data Type">
+			<param name="Local" value="html/vadatcurrency.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Date Data Type">
+			<param name="Local" value="html/vadatdate.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Decimal Data Type">
+			<param name="Local" value="html/vadatdecimal.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Double Data Type">
+			<param name="Local" value="html/vadatdouble.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Integer Data Type">
+			<param name="Local" value="html/vadatinteger.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Long Data Type">
+			<param name="Local" value="html/vadatlong.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="LongLong Data Type">
+			<param name="Local" value="html/vadatlonglong.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="LongPtr Data Type">
+			<param name="Local" value="html/vadatlongptr.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Object Data Type">
+			<param name="Local" value="html/vadatobject.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Single Data Type">
+			<param name="Local" value="html/vadatsingle.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="String Data Type">
+			<param name="Local" value="html/vadatstring.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="User-Defined Data Type">
+			<param name="Local" value="html/vadatuserdefined.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Variant Data Type">
+			<param name="Local" value="html/vadatvariant.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Directives">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="#Const Directive">
+			<param name="Local" value="html/vadirconst.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="#If...Then...#Else Directive">
+			<param name="Local" value="html/vadirif.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Events">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Activate Event">
+			<param name="Local" value="html/vaevtactivate.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Deactivate Event">
+			<param name="Local" value="html/vaevtactivate.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Initialize Event">
+			<param name="Local" value="html/vaevtinitialize.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="QueryClose Event">
+			<param name="Local" value="html/vaevtQueryClose.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Resize Event">
+			<param name="Local" value="html/vaevtresize.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Terminate Event">
+			<param name="Local" value="html/vaevtterminate.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Functions">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="A-C">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Abs Function">
+				<param name="Local" value="html/vafctabs.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Array Function">
+				<param name="Local" value="html/vafctarray.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Asc Function">
+				<param name="Local" value="html/vafctasc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="AscB Function">
+				<param name="Local" value="html/vafctAsc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="AscW Function">
+				<param name="Local" value="html/vafctAsc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Atn Function">
+				<param name="Local" value="html/vafctatn.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CallByName Function">
+				<param name="Local" value="html/vafctCallByNameFunction.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CBool Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CByte Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CCur Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CDate Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CDbl Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CDec Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Choose Function">
+				<param name="Local" value="html/vafctchoose.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Chr Function">
+				<param name="Local" value="html/vafctchr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Chr$ Function">
+				<param name="Local" value="html/vafctchr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ChrB Function">
+				<param name="Local" value="html/vafctchr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ChrB$ Function">
+				<param name="Local" value="html/vafctchr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ChrW Function">
+				<param name="Local" value="html/vafctchr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CInt Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CLng Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Command Function">
+				<param name="Local" value="html/vafctcommand.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Command$ Function">
+				<param name="Local" value="html/vafctcommand.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cos Function">
+				<param name="Local" value="html/vafctcos.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CreateObject Function">
+				<param name="Local" value="html/vafctcreateobject.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CSng Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CStr Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CurDir Function">
+				<param name="Local" value="html/vafctcurdir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CurDir$ Function">
+				<param name="Local" value="html/vafctCurDir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CVar Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CVDate Function">
+				<param name="Local" value="html/vaGrpTypeConversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="CVErr Function">
+				<param name="Local" value="html/vafctcverr.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="D-G">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Date Function">
+				<param name="Local" value="html/vafctdate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Date$ Function">
+				<param name="Local" value="html/vafctdate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateAdd Function">
+				<param name="Local" value="html/vafctdateadd.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateDiff Function">
+				<param name="Local" value="html/vafctdatediff.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DatePart Function">
+				<param name="Local" value="html/vafctdatepart.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateSerial Function">
+				<param name="Local" value="html/vafctdateserial.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DateValue Function">
+				<param name="Local" value="html/vafctdatevalue.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Day Function">
+				<param name="Local" value="html/vafctday.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DDB Function">
+				<param name="Local" value="html/vafctddb.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Dir Function">
+				<param name="Local" value="html/vafctdir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Dir$ Function">
+				<param name="Local" value="html/vafctDir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DoEvents Function">
+				<param name="Local" value="html/vafctdoevents.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Environ Function">
+				<param name="Local" value="html/vafctenviron.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Environ$ Function">
+				<param name="Local" value="html/vafctEnviron.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="EOF Function">
+				<param name="Local" value="html/vafcteof.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Error Function">
+				<param name="Local" value="html/vafcterror.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Error$ Function">
+				<param name="Local" value="html/vafctError.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Exp Function">
+				<param name="Local" value="html/vafctexp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FileAttr Function">
+				<param name="Local" value="html/vafctfileattr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FileDateTime Function">
+				<param name="Local" value="html/vafctfiledatetime.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FileLen Function">
+				<param name="Local" value="html/vafctfilelen.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Filter Function">
+				<param name="Local" value="html/vafctfilter.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Fix Function">
+				<param name="Local" value="html/vafctint.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Format Function">
+				<param name="Local" value="html/vafctformat.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Format$ Function">
+				<param name="Local" value="html/vafctformat.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FormatCurrency Function">
+				<param name="Local" value="html/vafctformatcurrency.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FormatDateTime Function">
+				<param name="Local" value="html/vafctformatdatetime.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FormatNumber Function">
+				<param name="Local" value="html/vafctformatnumber.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FormatPercent Function">
+				<param name="Local" value="html/vafctformatpercent.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FreeFile Function">
+				<param name="Local" value="html/vafctfreefile.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FV Function">
+				<param name="Local" value="html/vafctfv.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GetAllSettings Function">
+				<param name="Local" value="html/vafctgetallsettings.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GetAttr Function">
+				<param name="Local" value="html/vafctgetattr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GetObject Function">
+				<param name="Local" value="html/vafctgetobject.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GetSetting Function">
+				<param name="Local" value="html/vafctgetsetting.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="H-L">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Hex Function">
+				<param name="Local" value="html/vafcthex.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Hex$ Function">
+				<param name="Local" value="html/vafctHex.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Hour Function">
+				<param name="Local" value="html/vafcthour.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IIf Function">
+				<param name="Local" value="html/vafctiif.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IMEStatus Function">
+				<param name="Local" value="html/vafctimestatus.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Input Function">
+				<param name="Local" value="html/vafctinput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Input$ Function">
+				<param name="Local" value="html/vafctinput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InputB Function">
+				<param name="Local" value="html/vafctinput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InputB$ Function">
+				<param name="Local" value="html/vafctinput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InputBox Function">
+				<param name="Local" value="html/vafctinputbox.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InStr Function">
+				<param name="Local" value="html/vafctinstr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InStrB Function">
+				<param name="Local" value="html/vafctinStr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="InStrRev Function">
+				<param name="Local" value="html/vafctinstrrev.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Int Function">
+				<param name="Local" value="html/vafctint.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IPmt Function">
+				<param name="Local" value="html/vafctipmt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IRR Function">
+				<param name="Local" value="html/vafctirr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsArray Function">
+				<param name="Local" value="html/vafctisarray.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsDate Function">
+				<param name="Local" value="html/vafctisdate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsEmpty Function">
+				<param name="Local" value="html/vafctisempty.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsError Function">
+				<param name="Local" value="html/vafctiserror.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsMissing Function">
+				<param name="Local" value="html/vafctismissing.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsNull Function">
+				<param name="Local" value="html/vafctisnull.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsNumeric Function">
+				<param name="Local" value="html/vafctisnumeric.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="IsObject Function">
+				<param name="Local" value="html/vafctisobject.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Join Function">
+				<param name="Local" value="html/vafctjoin.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LBound Function">
+				<param name="Local" value="html/vafctlbound.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LCase Function">
+				<param name="Local" value="html/vafctlcase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LCase$ Function">
+				<param name="Local" value="html/vafctlcase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Left Function">
+				<param name="Local" value="html/vafctleft.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Left$ Function">
+				<param name="Local" value="html/vafctleft.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LeftB Function">
+				<param name="Local" value="html/vafctLeft.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LeftB$ Function">
+				<param name="Local" value="html/vafctLeft.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Len Function">
+				<param name="Local" value="html/vafctlen.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LenB Function">
+				<param name="Local" value="html/vafctLen.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Loc Function">
+				<param name="Local" value="html/vafctloc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LOF Function">
+				<param name="Local" value="html/vafctlof.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Log Function">
+				<param name="Local" value="html/vafctlog.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LTrim Function">
+				<param name="Local" value="html/vafctltrim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LTrim$ Function">
+				<param name="Local" value="html/vafctLtrim.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="M-P">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MacID Function">
+				<param name="Local" value="html/vafctMacId.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MacScript Function">
+				<param name="Local" value="html/vafctMacScript.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Mid Function">
+				<param name="Local" value="html/vafctmid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Mid$ Function">
+				<param name="Local" value="html/vafctMid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MidB Function">
+				<param name="Local" value="html/vafctMid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MidB$ Function">
+				<param name="Local" value="html/vafctMid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Minute Function">
+				<param name="Local" value="html/vafctminute.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MIRR Function">
+				<param name="Local" value="html/vafctmirr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Month Function">
+				<param name="Local" value="html/vafctmonth.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MonthName Function">
+				<param name="Local" value="html/vafctmonthname.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MsgBox Function">
+				<param name="Local" value="html/vafctmsgbox.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Now Function">
+				<param name="Local" value="html/vafctnow.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NPer Function">
+				<param name="Local" value="html/vafctnper.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NPV Function">
+				<param name="Local" value="html/vafctnpv.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Oct Function">
+				<param name="Local" value="html/vafctoct.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Oct$ Function">
+				<param name="Local" value="html/vafctOct.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Partition Function">
+				<param name="Local" value="html/vafctpartition.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Pmt Function">
+				<param name="Local" value="html/vafctpmt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PPmt Function">
+				<param name="Local" value="html/vafctppmt.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="PV Function">
+				<param name="Local" value="html/vafctpv.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Q-Z">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="QBColor Function">
+				<param name="Local" value="html/vafctqbcolor.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Rate Function">
+				<param name="Local" value="html/vafctrate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Replace Function">
+				<param name="Local" value="html/vafctreplace.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RGB Function">
+				<param name="Local" value="html/vafctrgb.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Right Function">
+				<param name="Local" value="html/vafctright.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Right$ Function">
+				<param name="Local" value="html/vafctRight.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RightB Function">
+				<param name="Local" value="html/vafctRight.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RightB$ Function">
+				<param name="Local" value="html/vafctRight.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Rnd Function">
+				<param name="Local" value="html/vafctrnd.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Round Function">
+				<param name="Local" value="html/vafctround.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RTrim Function">
+				<param name="Local" value="html/vafctLTrim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RTrim$ Function">
+				<param name="Local" value="html/vafctLTrim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Second Function">
+				<param name="Local" value="html/vafctsecond.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Seek Function">
+				<param name="Local" value="html/vafctseek.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sgn Function">
+				<param name="Local" value="html/vafctsgn.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Shell Function">
+				<param name="Local" value="html/vafctshell.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sin Function">
+				<param name="Local" value="html/vafctsin.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SLN Function">
+				<param name="Local" value="html/vafctsln.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Space Function">
+				<param name="Local" value="html/vafctspace.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Space$ Function">
+				<param name="Local" value="html/vafctSpace.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Spc Function">
+				<param name="Local" value="html/vafctspc.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Split Function">
+				<param name="Local" value="html/vafctsplit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sqr Function">
+				<param name="Local" value="html/vafctsqr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Str Function">
+				<param name="Local" value="html/vafctstr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Str$ Function">
+				<param name="Local" value="html/vafctStr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="StrComp Function">
+				<param name="Local" value="html/vafctstrcomp.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="StrConv Function">
+				<param name="Local" value="html/vafctstrconv.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="StrReverse Function">
+				<param name="Local" value="html/vafctstrreverse.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="String Function">
+				<param name="Local" value="html/vafctstring.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="String$ Function">
+				<param name="Local" value="html/vafctString.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Switch Function">
+				<param name="Local" value="html/vafctswitch.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SYD Function">
+				<param name="Local" value="html/vafctsyd.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tab Function">
+				<param name="Local" value="html/vafcttab.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tan Function">
+				<param name="Local" value="html/vafcttan.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Time Function">
+				<param name="Local" value="html/vafcttime.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Time$ Function">
+				<param name="Local" value="html/vafctTime.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Timer Function">
+				<param name="Local" value="html/vafcttimer.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="TimeSerial Function">
+				<param name="Local" value="html/vafcttimeserial.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="TimeValue Function">
+				<param name="Local" value="html/vafcttimevalue.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Type Conversion Functions">
+				<param name="Local" value="html/vagrptypeconversion.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Trim Function">
+				<param name="Local" value="html/vafctLTrim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Trim$ Function">
+				<param name="Local" value="html/vafctLTrim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="TypeName Function">
+				<param name="Local" value="html/vafcttypename.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="UBound Function">
+				<param name="Local" value="html/vafctubound.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="UCase Function">
+				<param name="Local" value="html/vafctucase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="UCase$ Function">
+				<param name="Local" value="html/vafctUCase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Val Function">
+				<param name="Local" value="html/vafctval.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="VarType Function">
+				<param name="Local" value="html/vafctvartype.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Weekday Function">
+				<param name="Local" value="html/vafctweekday.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="WeekdayName Function">
+				<param name="Local" value="html/vafctweekdayname.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Year Function">
+				<param name="Local" value="html/vafctyear.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Groups">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Arithmetic Operators">
+			<param name="Local" value="html/vaidxarithmetic.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Concatenation Operators">
+			<param name="Local" value="html/vaidxconcatenation.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Conversion Functions">
+			<param name="Local" value="html/vaidxconversion.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Data Type Summary">
+			<param name="Local" value="html/vagrpdatatype.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Derived Math Functions">
+			<param name="Local" value="html/vagrpderivedmath.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Logical Operators">
+			<param name="Local" value="html/vaidxlogical.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Math Functions">
+			<param name="Local" value="html/vaidxmathfunctions.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Operator Precedence">
+			<param name="Local" value="html/vagrpoperatorprecedence.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Operator Summary">
+			<param name="Local" value="html/vagrpoperatorsummary.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Indexes/Lists">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Arrays Keyword Summary">
+			<param name="Local" value="html/vaidxarrays.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Collection Object Keyword Summary">
+			<param name="Local" value="html/vaidxcollectionobjectkeywords.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Compiler Directive Keyword Summary">
+			<param name="Local" value="html/vaidxcompilerdirective.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Control Flow Keyword Summary">
+			<param name="Local" value="html/vaidxdecisionstructures.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Conversion Keyword Summary">
+			<param name="Local" value="html/vaidxconversionkeywords.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Data Types Keyword Summary">
+			<param name="Local" value="html/vaidxdatatypes.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dates and Times Keyword Summary">
+			<param name="Local" value="html/vaidxdatestimes.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Directories and Files Keyword Summary">
+			<param name="Local" value="html/vaidxenvironment.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Errors Keyword Summary">
+			<param name="Local" value="html/vaidxerrors.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Financial Keyword Summary">
+			<param name="Local" value="html/vaidxfinancial.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Input and Output Keyword Summary">
+			<param name="Local" value="html/vaidxinputoutput.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Keywords by Task">
+			<param name="Local" value="html/vaidxkeywordsbytask.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Math Keyword Summary">
+			<param name="Local" value="html/vaidxmath.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Miscellaneous Keyword Summary">
+			<param name="Local" value="html/vaidxmiscellaneous.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Operators Keyword Summary">
+			<param name="Local" value="html/vaidxoperators.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Registry Keyword Summary">
+			<param name="Local" value="html/vaidxregistry.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="String Manipulation Keyword Summary">
+			<param name="Local" value="html/vaidxstrings.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Variables and Constants Keyword Summary">
+			<param name="Local" value="html/vaidxvariablesconstants.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Keywords">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="As">
+			<param name="Local" value="html/vakeyas.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Binary">
+			<param name="Local" value="html/vakeybinary.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ByRef">
+			<param name="Local" value="html/vakeybyref.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ByVal">
+			<param name="Local" value="html/vakeybyval.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Date">
+			<param name="Local" value="html/vakeydate.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Else">
+			<param name="Local" value="html/vakeyelse.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Empty">
+			<param name="Local" value="html/vakeyempty.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Error">
+			<param name="Local" value="html/vakeyerror.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="False">
+			<param name="Local" value="html/vakeyfalse.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="For">
+			<param name="Local" value="html/vakeyfor.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Friend">
+			<param name="Local" value="html/vakeyFriend.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Get">
+			<param name="Local" value="html/vakeyget.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Input">
+			<param name="Local" value="html/vakeyinput.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Is">
+			<param name="Local" value="html/vakeyis.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Len">
+			<param name="Local" value="html/vakeylen.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Let">
+			<param name="Local" value="html/vakeylet.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Lock">
+			<param name="Local" value="html/vakeylock.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Me">
+			<param name="Local" value="html/vakeyme.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Mid">
+			<param name="Local" value="html/vakeymid.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="New">
+			<param name="Local" value="html/vakeynew.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Next">
+			<param name="Local" value="html/vakeynext.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Nothing">
+			<param name="Local" value="html/vakeynothing.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Null">
+			<param name="Local" value="html/vakeynull.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="On">
+			<param name="Local" value="html/vakeyon.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Option">
+			<param name="Local" value="html/vakeyoption.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Optional">
+			<param name="Local" value="html/vakeyoptional.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ParamArray">
+			<param name="Local" value="html/vakeyparamarray.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print">
+			<param name="Local" value="html/vakeyprint.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Private">
+			<param name="Local" value="html/vakeyprivate.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Property">
+			<param name="Local" value="html/vakeyproperty.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="PtrSafe">
+			<param name="Local" value="html/vakeyptrsafe.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Public">
+			<param name="Local" value="html/vakeypublic.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Resume">
+			<param name="Local" value="html/vakeyresume.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Seek">
+			<param name="Local" value="html/vakeyseek.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Set">
+			<param name="Local" value="html/vakeyset.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Static">
+			<param name="Local" value="html/vakeystatic.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Step">
+			<param name="Local" value="html/vakeystep.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="String">
+			<param name="Local" value="html/vakeystring.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Then">
+			<param name="Local" value="html/vakeythen.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Time">
+			<param name="Local" value="html/vakeytime.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="To">
+			<param name="Local" value="html/vakeyto.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="True">
+			<param name="Local" value="html/vakeytrue.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WithEvents">
+			<param name="Local" value="html/vakeywithevents.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Methods">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Method">
+			<param name="Local" value="html/vamthadd.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Method (Dictionary)">
+			<param name="Local" value="html/vamthfsoadd.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Add Method (Folders)">
+			<param name="Local" value="html/vamthaddfolders.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Assert Method">
+			<param name="Local" value="html/vamthAssert.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="BuildPath Method">
+			<param name="Local" value="html/vamthbuildpath.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Clear Method">
+			<param name="Local" value="html/vamthclear.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Close Method">
+			<param name="Local" value="html/vamthfsoclose.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Copy Method">
+			<param name="Local" value="html/vamthcopy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CopyFile Method">
+			<param name="Local" value="html/vamthcopyfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CopyFolder Method">
+			<param name="Local" value="html/vamthcopyfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CreateFolder Method">
+			<param name="Local" value="html/vamthcreatefolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CreateTextFile Method">
+			<param name="Local" value="html/vamthcreatetextfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Delete Method">
+			<param name="Local" value="html/vamthdelete.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DeleteFile Method">
+			<param name="Local" value="html/vamthdeletefile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DeleteFolder Method">
+			<param name="Local" value="html/vamthdeletefolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DriveExists Method">
+			<param name="Local" value="html/vamthdriveexists.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Exists Method">
+			<param name="Local" value="html/vamthexists.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FileExists Method">
+			<param name="Local" value="html/vamthfileexists.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FolderExists Method">
+			<param name="Local" value="html/vamthfolderexists.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetAbsolutePathName Method">
+			<param name="Local" value="html/vamthgetabsolutepathname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetBaseName Method">
+			<param name="Local" value="html/vamthgetbasename.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetDrive Method">
+			<param name="Local" value="html/vamthgetdrive.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetDriveName Method">
+			<param name="Local" value="html/vamthgetdrivename.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetExtensionName Method">
+			<param name="Local" value="html/vamthgetextensionname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetFile Method">
+			<param name="Local" value="html/vamthgetfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetFileName Method">
+			<param name="Local" value="html/vamthgetfilename.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetFolder Method">
+			<param name="Local" value="html/vamthgetfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetParentFolderName Method">
+			<param name="Local" value="html/vamthgetparentfoldername.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetSpecialFolder Method">
+			<param name="Local" value="html/vamthgetspecialfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="GetTempName Method">
+			<param name="Local" value="html/vamthgettempname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Hide Method">
+			<param name="Local" value="html/vamthHide.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Item Method">
+			<param name="Local" value="html/vamthitem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Items Method">
+			<param name="Local" value="html/vamthitems.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Keys Method">
+			<param name="Local" value="html/vamthkeys.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Move Method (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3mthmove.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Move Method (FileSystemObject Object)">
+			<param name="Local" value="html/vamthfsomove.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="MoveFile Method">
+			<param name="Local" value="html/vamthmovefile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="MoveFolder Method">
+			<param name="Local" value="html/vamthmovefolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="OpenAsTextStream Method">
+			<param name="Local" value="html/vamthopenastextstream.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="OpenTextFile Method">
+			<param name="Local" value="html/vamthopentextfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Print Method">
+			<param name="Local" value="html/vamthprint.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="PrintForm Method">
+			<param name="Local" value="html/vamthPrintForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Raise Method">
+			<param name="Local" value="html/vamthraise.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Read Method">
+			<param name="Local" value="html/vamthread.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ReadAll Method">
+			<param name="Local" value="html/vamthreadall.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ReadLine Method">
+			<param name="Local" value="html/vamthreadline.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Method">
+			<param name="Local" value="html/vamthremove.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remove Method (FileSystemObject Object)">
+			<param name="Local" value="html/vamthfsoremove.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="RemoveAll Method">
+			<param name="Local" value="html/vamthremoveall.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Show Method">
+			<param name="Local" value="html/vamthShow.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Skip Method">
+			<param name="Local" value="html/vamthskip.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SkipLine Method">
+			<param name="Local" value="html/vamthskipline.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WhatsThisMode Method">
+			<param name="Local" value="html/vamthWhatsThisMode.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Write Method">
+			<param name="Local" value="html/vamthwrite.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WriteBlankLines Method">
+			<param name="Local" value="html/vamthwriteblanklines.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WriteLine Method">
+			<param name="Local" value="html/vamthwriteline.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Miscellaneous">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Character Set (0-127)">
+			<param name="Local" value="html/vamscansitable.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Character Set (128-255)">
+			<param name="Local" value="html/vamscansitable2.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Document Conventions">
+			<param name="Local" value="html/vamscdocumentconventions.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Objects">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Collection Object">
+			<param name="Local" value="html/vaobjcollection.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Debug Object">
+			<param name="Local" value="html/vaobjdebug.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dictionary Object">
+			<param name="Local" value="html/vaobjdictionary.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Drive Object">
+			<param name="Local" value="html/vaobjdrive.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Drives Collection">
+			<param name="Local" value="html/vaobjdrives.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Err Object">
+			<param name="Local" value="html/vaobjerr.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="File Object">
+			<param name="Local" value="html/vaobjfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Files Collection">
+			<param name="Local" value="html/vaobjfiles.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FileSystemObject Object">
+			<param name="Local" value="html/vaobjfilesystemobject.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Folder Object">
+			<param name="Local" value="html/vaobjfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Folders Collection">
+			<param name="Local" value="html/vaobjfolders.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="TextStreamObject">
+			<param name="Local" value="html/vaobjtextstream.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="UserForm Object">
+			<param name="Local" value="html/vaobjUserForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="UserForms Collection">
+			<param name="Local" value="html/vaobjUserForm.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Operators">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="&amp; Operator">
+			<param name="Local" value="html/vaoprconcatenation.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="* Operator">
+			<param name="Local" value="html/vaoprmultiply.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="+ Operator">
+			<param name="Local" value="html/vaopradd.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="- Operator">
+			<param name="Local" value="html/vaoprsubtract.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="/ Operator">
+			<param name="Local" value="html/vaoprdivide.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="\ Operator">
+			<param name="Local" value="html/vaoprintegerdivide.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="^ Operator">
+			<param name="Local" value="html/vaoprexponentiation.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="= Operator">
+			<param name="Local" value="html/vaoprassign.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="AddressOf Operator">
+			<param name="Local" value="html/vaoprAddressOf.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="And Operator">
+			<param name="Local" value="html/vaoprand.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comparison Operators">
+			<param name="Local" value="html/vagrpcomparison.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Eqv Operator">
+			<param name="Local" value="html/vaopreqv.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Imp Operator">
+			<param name="Local" value="html/vaoprimp.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Is Operator">
+			<param name="Local" value="html/vaopris.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Like Operator">
+			<param name="Local" value="html/vaoprlike.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Mod Operator">
+			<param name="Local" value="html/vaoprmod.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Not Operator">
+			<param name="Local" value="html/vaoprnot.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Or Operator">
+			<param name="Local" value="html/vaopror.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Xor Operator">
+			<param name="Local" value="html/vaoprxor.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Properties">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="AtEndOfLine Property">
+			<param name="Local" value="html/vaproatendofline.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="AtEndOfStream Property">
+			<param name="Local" value="html/vaproatendofstream.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Attributes Property">
+			<param name="Local" value="html/vaproattributes.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="AvailableSpace Property">
+			<param name="Local" value="html/vaproavailablespace.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Caption Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3procaption.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Calendar Property">
+			<param name="Local" value="html/vaprocalendar.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Column Property">
+			<param name="Local" value="html/vaprocolumn.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CompareMode Property">
+			<param name="Local" value="html/vaprocomparemode.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Count Property">
+			<param name="Local" value="html/vaprocount.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Count Property (FileSystemObject Object)">
+			<param name="Local" value="html/vaprofsocount.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DateCreated Property">
+			<param name="Local" value="html/vaprodatecreated.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DateLastAccessed Property">
+			<param name="Local" value="html/vaprodatelastaccessed.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DateLastModified Property">
+			<param name="Local" value="html/vaprodatelastmodified.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Description Property">
+			<param name="Local" value="html/vaprodescription.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Drive Property">
+			<param name="Local" value="html/vaprodrive.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DriveLetter Property">
+			<param name="Local" value="html/vaprodriveletter.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Drives Property">
+			<param name="Local" value="html/vaprodrives.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="DriveType Property">
+			<param name="Local" value="html/vaprodrivetype.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Enabled Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proenabled.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Files Property">
+			<param name="Local" value="html/vaprofiles.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FileSystem Property">
+			<param name="Local" value="html/vaprofilesystem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FreeSpace Property">
+			<param name="Local" value="html/vaprofreespace.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Height Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proheight.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="HelpContext Property">
+			<param name="Local" value="html/vaprohelpcontext.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="HelpContextID Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3prohelpcontextid.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="HelpFile Property">
+			<param name="Local" value="html/vaprohelpfile.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="IsReady Property">
+			<param name="Local" value="html/vaproisready.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="IsRootFolder Property">
+			<param name="Local" value="html/vaproisrootfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Item Property">
+			<param name="Local" value="html/vaprofsoitem.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Key Property">
+			<param name="Local" value="html/vaprokey.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="LastDLLError Property">
+			<param name="Local" value="html/vaprolastdllerror.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Left Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proleft.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Line Property">
+			<param name="Local" value="html/vaproline.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Name Property (FileSystemObject Object)">
+			<param name="Local" value="html/vaprofsoname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Name Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Number Property">
+			<param name="Local" value="html/vapronumber.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ParentFolder Property">
+			<param name="Local" value="html/vaproparentfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Path Property (FileSystemObject Object)">
+			<param name="Local" value="html/vaprofsopath.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="RightToLeft Property">
+			<param name="Local" value="html/vaproRightToLeft.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="RootFolder Property">
+			<param name="Local" value="html/vaprorootfolder.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SerialNumber Property">
+			<param name="Local" value="html/vaproserialnumber.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ShareName Property">
+			<param name="Local" value="html/vaprosharename.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ShortName Property">
+			<param name="Local" value="html/vaproshortname.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ShortPath Property">
+			<param name="Local" value="html/vaproshortpath.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ShowModal Propety">
+			<param name="Local" value="html/vaproShowModalProperty.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Size Property (FileSystemObject Object)">
+			<param name="Local" value="html/vaprofsosize.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Source Property">
+			<param name="Local" value="html/vaprosource.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="StartUpPosition Property">
+			<param name="Local" value="html/vaprostartupposition.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SubFolders Property">
+			<param name="Local" value="html/vaprosubfolders.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tag Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3protag.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="TotalSize Property">
+			<param name="Local" value="html/vaprototalsize.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Top Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proleft.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Type Property">
+			<param name="Local" value="html/vaprofsotype.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Visible Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3provisible.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="VolumeName Property">
+			<param name="Local" value="html/vaprovolumename.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WhatsThisButton Property">
+			<param name="Local" value="html/vaproWhatsThisButton.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="WhatsThisHelp Property">
+			<param name="Local" value="html/vaproWhatsThisHelp.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Width Property (UserForm)">
+			<param name="Local" value="fm20.chm::/html/f3proHeight.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Statements">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="A-L">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="AppActivate Statement">
+				<param name="Local" value="html/vastmappactivate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Beep Statement">
+				<param name="Local" value="html/vastmbeep.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Call Statement">
+				<param name="Local" value="html/vastmcall.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ChDir Statement">
+				<param name="Local" value="html/vastmchdir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ChDrive Statement">
+				<param name="Local" value="html/vastmchdrive.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Close Statement">
+				<param name="Local" value="html/vastmclose.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Const Statement">
+				<param name="Local" value="html/vastmconst.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Date Statement">
+				<param name="Local" value="html/vastmdate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Declare Statement">
+				<param name="Local" value="html/vastmdeclare.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Deftype Statements">
+				<param name="Local" value="html/vagrpdeftype.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="DeleteSetting Statement">
+				<param name="Local" value="html/vastmdeletesetting.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Dim Statement">
+				<param name="Local" value="html/vastmdim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Do...Loop Statement">
+				<param name="Local" value="html/vastmdo.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="End Statement">
+				<param name="Local" value="html/vastmend.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Enum Statement">
+				<param name="Local" value="html/vastmEnum.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Erase Statement">
+				<param name="Local" value="html/vastmerase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Error Statement">
+				<param name="Local" value="html/vastmerror.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Event Statement">
+				<param name="Local" value="html/vastmEvent.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Exit Statement">
+				<param name="Local" value="html/vastmexit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="FileCopy Statement">
+				<param name="Local" value="html/vastmfilecopy.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="For Each...Next Statement">
+				<param name="Local" value="html/vastmforeach.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="For...Next Statement">
+				<param name="Local" value="html/vastmfor.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Function Statement">
+				<param name="Local" value="html/vastmfunction.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Get Statement">
+				<param name="Local" value="html/vastmget.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GoSub...Return Statement">
+				<param name="Local" value="html/vastmgosub.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="GoTo Statement">
+				<param name="Local" value="html/vastmgoto.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="If...Then...Else Statement">
+				<param name="Local" value="html/vastmif.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Implements Statement">
+				<param name="Local" value="html/vastmImplements.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Input # Statement">
+				<param name="Local" value="html/vastminput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Kill Statement">
+				<param name="Local" value="html/vastmkill.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Let Statement">
+				<param name="Local" value="html/vastmlet.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Line Input # Statement">
+				<param name="Local" value="html/vastmlineinput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Load Statement">
+				<param name="Local" value="html/vastmload.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Lock Statement">
+				<param name="Local" value="html/vastmlock.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="LSet Statement">
+				<param name="Local" value="html/vastmlset.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="M-Z">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Mid Statement">
+				<param name="Local" value="html/vastmmid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MidB Statement">
+				<param name="Local" value="html/vastmMid.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="MkDir Statement">
+				<param name="Local" value="html/vastmmkdir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Name Statement">
+				<param name="Local" value="html/vastmname.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="On Error Statement">
+				<param name="Local" value="html/vastmonerror.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="On...GoSub Statement">
+				<param name="Local" value="html/vastmongosub.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="On...GoTo Statement">
+				<param name="Local" value="html/vastmongosub.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Open Statement">
+				<param name="Local" value="html/vastmopen.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Option Base Statement">
+				<param name="Local" value="html/vastmoptionbase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Option Compare Statement">
+				<param name="Local" value="html/vastmoptioncompare.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Option Explicit Statement">
+				<param name="Local" value="html/vastmoptionexplicit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Option Private Statement">
+				<param name="Local" value="html/vastmoptionprivate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Print # Statement">
+				<param name="Local" value="html/vastmprint.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Private Statement">
+				<param name="Local" value="html/vastmprivate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Property Get Statement">
+				<param name="Local" value="html/vastmpropertyget.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Property Let Statement">
+				<param name="Local" value="html/vastmpropertylet.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Property Set Statement">
+				<param name="Local" value="html/vastmpropertyset.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Public Statement">
+				<param name="Local" value="html/vastmpublic.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Put Statement">
+				<param name="Local" value="html/vastmput.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RaiseEvent Statement">
+				<param name="Local" value="html/vastmRaiseEvent.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Randomize Statement">
+				<param name="Local" value="html/vastmrandomize.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ReDim Statement">
+				<param name="Local" value="html/vastmredim.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Rem Statement">
+				<param name="Local" value="html/vastmrem.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reset Statement">
+				<param name="Local" value="html/vastmreset.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Resume Statement">
+				<param name="Local" value="html/vastmresume.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RmDir Statement">
+				<param name="Local" value="html/vastmrmdir.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RSet Statement">
+				<param name="Local" value="html/vastmrset.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SaveSetting Statement">
+				<param name="Local" value="html/vastmsavesetting.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Seek Statement">
+				<param name="Local" value="html/vastmseek.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Select Case Statement">
+				<param name="Local" value="html/vastmselectcase.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SendKeys Statement">
+				<param name="Local" value="html/vastmsendkeys.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Set Statement">
+				<param name="Local" value="html/vastmset.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="SetAttr Statement">
+				<param name="Local" value="html/vastmsetattr.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Static Statement">
+				<param name="Local" value="html/vastmstatic.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Stop Statement">
+				<param name="Local" value="html/vastmstop.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sub Statement">
+				<param name="Local" value="html/vastmsub.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Time Statement">
+				<param name="Local" value="html/vastmtime.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Type Statement">
+				<param name="Local" value="html/vastmtype.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Unload Statement">
+				<param name="Local" value="html/vastmUnload.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="While...Wend Statement">
+				<param name="Local" value="html/vastmwhile.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Width # Statement">
+				<param name="Local" value="html/vastmwidth.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="With Statement">
+				<param name="Local" value="html/vastmwith.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Write # Statement">
+				<param name="Local" value="html/vastmwrite.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

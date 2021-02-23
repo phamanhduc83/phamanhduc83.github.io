@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"><HTML><HEAD></HEAD><BODY><UL><LI> <OBJECT type="text/sitemap"><param name="Name" value="Microsoft Office Web Discussions Client Visual Basic Reference"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Microsoft Office Web Discussions Client Object Model"><param name="Local" value="html/octocMSOWCObjectModels.htm"></OBJECT></LI></UL><UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Collections"></OBJECT>
+</UL><UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Objects"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="D"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Discussion Object"><param name="Local" value="html/owobjDiscussion.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Discussions Object"><param name="Local" value="html/owobjDiscussions.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="DiscussionServer Object"><param name="Local" value="html/owobjDiscussionServer.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="DiscussionServers Object"><param name="Local" value="html/owobjDiscussionServers.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="G"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Global Object"><param name="Local" value="html/owobjGlobal.htm"></OBJECT></LI></UL>
+
+
+</UL>
+</UL><UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Methods"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="A"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Add Method"><param name="Local" value="html/owmthAdd.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="C"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Commit Method"><param name="Local" value="html/owmthCommit.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="D"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Delete Method"><param name="Local" value="html/owmthDelete.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="O"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="OpenDiscussions Method"><param name="Local" value="html/owmthOpenDiscussions.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="S"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="SetAsDefault Method"><param name="Local" value="html/owmthSetAsDefault.htm"></OBJECT></LI></UL>
+
+
+</UL>
+</UL><UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="A"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Author Property"><param name="Local" value="html/owproAuthor.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="AutoCommit Property"><param name="Local" value="html/owproAutoCommit.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="B"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Bookmark Property"><param name="Local" value="html/owproBookmark.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="C"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Count Property"><param name="Local" value="html/owproCount.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentUserName Property"><param name="Local" value="html/owproCurrentUserName.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="D"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Discussions Property"><param name="Local" value="html/owproDiscussions.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="F"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="FriendlyName Property"><param name="Local" value="html/owproFriendlyName.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="I"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Index Property"><param name="Local" value="html/owproIndex.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Item Property"><param name="Local" value="html/owproItem.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="L"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="LoginName Property"><param name="Local" value="html/owproLoginName.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="P"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Parent Property"><param name="Local" value="html/owproParent.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="S"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="ServerAddress Property"><param name="Local" value="html/owproServerAddress.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Subject Property"><param name="Local" value="html/owproSubject.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="T"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Text Property"><param name="Local" value="html/owproText.htm"></OBJECT></LI></UL>
+
+
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="Timestamp Property"><param name="Local" value="html/owproTimestamp.htm"></OBJECT></LI></UL>
+
+
+</UL>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="U"></OBJECT>
+<UL><LI><OBJECT type="text/sitemap"><param name="Name" value="URL Property"><param name="Local" value="html/owproURL.htm"></OBJECT></LI></UL>
+
+
+</UL>
+</UL></UL></UL></BODY></HTML>

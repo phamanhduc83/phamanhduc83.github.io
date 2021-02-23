@@ -1,0 +1,252 @@
+<HTML>
+<HEAD>
+</HEAD>
+  <BODY>
+<OBJECT type="text/site properties">
+        <param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="About Portable Offline Browser">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Offline Explorer Pro">
+      <param name="Local" value="html/Contents.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Funciones">
+      <param name="Local" value="html/Features.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Offline Explorer Pro">
+      <param name="Local" value="html/OEPro.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo puede serle de utilidad?">
+      <param name="Local" value="html/HowUseful.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo comenzar">
+      <param name="Local" value="html/Start.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Créditos">
+      <param name="Local" value="html/Credits.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo descargar archivos BitTorrent">
+      <param name="Local" value="html/BitTorrent.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How To...">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Ventana Principal">
+      <param name="Local" value="html/Main.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo crear un Proyecto nuevo">
+      <param name="Local" value="html/NewProject.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo organizar el ãrbol de Proyectos">
+      <param name="Local" value="html/Operations.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo descargar un Proyecto">
+      <param name="Local" value="html/Download.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo guardar pãginas durante la exploración">
+      <param name="Local" value="html/AutoSave.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Exploración del Sitio Descargado Sin Conexión">
+      <param name="Local" value="html/View.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo Registrar Offline Explorer Pro">
+      <param name="Local" value="html/Order.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo actualizar a la versión  siguiente y mantener a mis Proyectos?">
+      <param name="Local" value="html/Upgrade.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo obtener Soporte Técnico">
+      <param name="Local" value="html/Support.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Extracción de Datos">
+      <param name="Local" value="html/DataMining.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo quemar un sitio Web descargado en un CD?">
+      <param name="Local" value="html/BurnToCD.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo agregar un único vínculo a un Proyecto existente?">
+      <param name="Local" value="html/SingleURL.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo colocar un sitio web descargado en una unidad USB para poder verlo en otros equipos?">
+      <param name="Local" value="html/USBKey.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced features">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo Programar Descargas de Proyectos">
+      <param name="Local" value="html/Scheduling.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Navegador Interno">
+      <param name="Local" value="html/IB.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Parãmetros de Línea de Comando">
+      <param name="Local" value="html/CommandLine.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Diãlogo de Opciones: Internet - Servidor Proxy">
+      <param name="Local" value="html/ProxyServer.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Exportar Proyectos">
+      <param name="Local" value="html/Export.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Diãlogo Propiedades de Proyecto: Secciones de filtros URL">
+      <param name="Local" value="html/PropFilters.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo usar macros de URL">
+      <param name="Local" value="html/Macros.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Lista de parãmetros de comando Additional=">
+      <param name="Local" value="html/Additionals.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo usar distinta configuración de servidor proxy para Proyectos">
+      <param name="Local" value="html/DifferentProxy.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Sustitutos URL">
+      <param name="Local" value="html/Substitutes.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Parãmetros del campo de URLs del Proyecto">
+      <param name="Local" value="html/URLsParams.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to download...">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Cómo cargar sitios www.ITKnowledge.com o earthweb.com">
+      <param name="Local" value="html/ITKnowledge.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo descargar sitios web protegidos con Adult check y CyberAge?">
+      <param name="Local" value="html/AdultCheck.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo descargar www.ScienceDiet.com?">
+      <param name="Local" value="html/ScienceDiet.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo descargar sólo unos pocos vínculos de alguna pãgina?">
+      <param name="Local" value="html/FewLinks.html">
+      </OBJECT>
+    </UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="FAQ">
+    </OBJECT>
+    <UL>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value=".primary and Descr.wd3 files">
+      <param name="Local" value="html/Primary.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿En dónde se almacenan los sitios Web descargados por Offline Explorer Pro?">
+      <param name="Local" value="html/DownloadDirectory.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="Por qué algunos archivos estãn dañados o incompletos luego de la descarga">
+      <param name="Local" value="html/BrokenFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Por qué no puedo cargar sitios de Notas Lotus correctamente?">
+      <param name="Local" value="html/LotusNotes.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Por qué recibo el mensaje "403 Prohibido"?">
+      <param name="Local" value="html/Error403.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Por qué Offline Explorer Pro se detiene durante la descarga? ">
+      <param name="Local" value="html/DownloadHang.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo exportar o imprimir un Proyecto automãticamente luego de la descarga?">
+      <param name="Local" value="html/AutoExport.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo borrar archivos de Proyectos viejos automãticamente luego de la descarga?">
+      <param name="Local" value="html/DelOldFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo especificar un remitente personalizado, cookie o petición POST?">
+      <param name="Local" value="html/AutoCookie.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo respaldar todos mis Proyectos, configuraciones, etc.?">
+      <param name="Local" value="html/BackupAll.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo enviar un formulario HTML y descargar sus resultados?">
+      <param name="Local" value="html/SubmitForm.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo manejar la autenticación NTML?">
+      <param name="Local" value="html/NTLM.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo ampliar el campo de URLs del cuadro de diãlogo Propiedades de proyecto?">
+      <param name="Local" value="html/F11.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo recoger direcciones de correo electrónico de pãginas Web descargadas?">
+      <param name="Local" value="html/CollectEMails.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo obtener una lista de archivos descargados recientemente de un Proyecto?">
+      <param name="Local" value="html/RecentFiles.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo conseguir una pãgina o dirección de enlace si el botón derecho estã desactivado y tengo un cuadro de mensaje?">
+      <param name="Local" value="html/PageRightClick.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Cómo instalar Offline Explorer Pro bajo un usuario no administrador en Windows NT/2000/XP?">
+      <param name="Local" value="html/NonAdminNT.html">
+      </OBJECT>
+      <LI><OBJECT type="text/sitemap">
+      <param name="Name" value="¿Por qué algunos símbolos se cambian en nombres de archivos -?, _40, etc.">
+      <param name="Local" value="html/SymbolsConvert.html">
+      </OBJECT>
+    </UL>
+    <LI><OBJECT type="text/sitemap">
+    <param name="Name" value="MetaProducts Offline Explorer Pro">
+    <param name="Local" value="html/index.html">
+    </OBJECT>
+</UL>
+</BODY>
+</HTML>
